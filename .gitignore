@@ -1,6 +1,9 @@
-#SECOND .gitignore
+#Any .gitignore
 #Her har jeg ramset opp filtyper og filer som ikke skal git'es
 
 Prog.plan*.*
 
-#Or Second?
+# Bare for å sjekke branching
+
+#Master?
+
