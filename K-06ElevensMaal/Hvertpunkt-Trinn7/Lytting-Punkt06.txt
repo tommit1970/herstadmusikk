@@ -1,0 +1,16 @@
+(* gi uttrykk for egne vurderinger om hvordan musikkens bruk og funksjon har endret seg gjennom tidene)
+
+(Endring)
+
+Omforming av målet:
+Eleven skal kunne vurdere musikkens bruk.
+Eleven skal kunne noe om musikkens vugge.
+Eleven skal kunne noe om nedtegnelse av musikk.
+Eleven skal kunne noe om vuggeviser, gjeteviser, stev(folkemusikk).
+Eleven skal kunne noe om opera, ballett(klassisk musikk).
+Eleven skal kunne noe om negro spirituals, soul, gospel(religiøs musikk).
+Eleven skal kunne noe om reggae, hip hop, punk(politisk musikk).
+Eleven skal kunne noe om dansband, folkedans(dansemusikk)
+Eleven skal kunne noe om techno, dubstep, ambience, (teknologisk musikk).
+Eleven skal kunne noe om (populærmusikk).
+

@@ -1,0 +1,8 @@
+(* komponere og gjøre lydopptak ved hjelp av digitale verktøy)
+
+(Verktøy)
+
+Omforming av målet:
+Eleven skal kunne gjøre lydopptak med "SP-505"(Roland) og lage en komposisjon.
+Eleven skal kunne bruke de enkleste komposisjonsmulighetene på "The Maschine"(Native Instruments).
+

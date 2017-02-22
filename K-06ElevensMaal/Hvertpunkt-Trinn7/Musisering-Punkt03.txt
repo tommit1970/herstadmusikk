@@ -1,0 +1,5 @@
+(* beherske enkelt melodispill etter gehør og enkle harmoniske og rytmiske akkompagnement)
+
+Omforming av målet:
+Eleven skal kunne spille en enkel melodi på gitar, piano eller klokkespill. (melodi)
+Elevene skal kunne spille gitar, piano eller klokkespill til enkle melodier. (harmonikk)

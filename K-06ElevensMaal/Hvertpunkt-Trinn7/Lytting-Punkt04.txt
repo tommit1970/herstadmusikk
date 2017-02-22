@@ -1,0 +1,11 @@
+(* gjenkjenne klangen til og benevne de ulike instrumentgruppene)
+
+(Instrumenter)
+
+Omforming av målet:
+Eleven skal kunne navnene på instrumentgruppene i klassisk musikk.
+Eleven skal gjenkjenne strykerne.
+Eleven skal gjenkjenne messingblåserne.
+Eleven skal gjenkjenne treblåserne.
+Eleven skal gjenkjenne slagverk.
+

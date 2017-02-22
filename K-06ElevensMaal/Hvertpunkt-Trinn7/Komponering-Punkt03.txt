@@ -1,0 +1,10 @@
+(* lage egne komposisjoner med utgangspunkt i enkle musikalske former og motiver og bruke grafisk notasjon til å lage skisser av komposisjonene)
+
+(Skrift)
+
+Omforming av målet:
+Eleven skal kunne tegne ned rytmer vha. grafisk notasjon.
+Eleven skal kunne tegne ned lange toner vha. grafisk notasjon.
+Eleven skal kunne tegne ned lydkilden i den grafiske notasjonen.
+Eleven skal kunne bruke grafisk notasjon for å tegne ned en musikalsk idé.
+

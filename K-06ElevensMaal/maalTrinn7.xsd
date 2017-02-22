@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="http://"
+xmlns="http://"
+elementFormDefault="qualified">
+
+		<xs:element name="title">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:pattern value="[a-zæøåA-ZÆØÅ, ]*"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:element>
+	
+		<xs:element name="num">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:pattern value="[K][0][6][_][0|1][0|2|4|7][_][K|L|M][1-6]"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:element>
+
+		<xs:element name="stikkord">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:pattern value="[a-zæøåA-ZÆØÅ ]*" />
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:element>
+		
+		<xs:element name="type">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="musisering" />
+					<xs:enumeration value="komponering" />
+					<xs:enumeration value="lytting" />
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:element>
+
+	
+		<xs:element name="li">
+			<xs:complexType>
+				<xs:sequence>
+					<xs:element ref="title" />
+					<xs:element ref="num" />
+					<xs:element ref="stikkord" />
+					<xs:element ref="type" />
+					<xs:element name="elevMaal" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+		
+
+	<xs:element name="maalTrinn7"/>
+		
+</xs:schema>

@@ -1,0 +1,15 @@
+(* beherske noen norske danser og danser fra andre land)
+
+(dans)
+
+Omforming av målet:
+Eleven skal kunne danse polka.
+Eleven skal kunne danse troika.
+Eleven skal kunne danse pols.
+Eleven skal kunne danse reinlender.
+Eleven skal kunne danse vals.
+Eleven skal kunne danse polonaise.
+Eleven skal kunne danse jenka.
+Eleven skal kunne danse swing.
+Eleven skal kunne danse linedance.
+Eleven skal kunne danse blimedansen.

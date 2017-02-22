@@ -1,0 +1,134 @@
+body {
+	display: block;
+	color: white;
+	background-color: #666633;
+	text-align: center;
+
+
+}
+
+header {
+	background-image: url("/bilder/blue-sound4.jpg");
+	background-size: 100%;
+	background-repeat: x-repeat;
+	background-color: #b8b894;
+	font-size: 2em;
+	border-radius: 1em 2em 1em 0;
+	padding: 1em 1em 0;
+	text-shadow:
+			1px 1px black,
+			-1px -1px black,
+			0px 1px black,
+			1px 0px black,
+			2px 2px black,
+			-2px -2px black,
+			0px 2px black,
+			2px 0px black;
+				
+}
+
+nav {
+	width: 60%;
+	margin: 0 25% 0;
+	text-align: left;
+	background-color: #336633;
+	padding: 1em 1em 0;
+	border-radius: 1em 2em 0 0;
+}
+
+div.boxbottom{
+    background-color: olive;
+    color: white;
+    border-radius: 1em 2em 0 0;
+    padding: 1em 1em 0;
+	}	
+
+main section img {
+	height: 75px;
+	border-radius: 1em;
+	border: solid white 2px;
+}	
+
+main section img:hover {
+	border: solid orange 2px;
+}
+
+main section .tidligere a {
+	text-decoration: none;
+	color: white;
+	padding: 0 5px;
+}
+	
+main section {
+	position: relative;
+}
+main section div.h {
+	background-color: #333366;
+	padding: 0.25em 1em 1em;
+	margin: 0 1em 1em 1em;
+	position: relative;
+	left: 25%;
+	top: 0;
+	width: 70%;
+	min-height: 20em;
+	text-align: justify;
+	border-radius: 0 2em 1em 0;
+}
+
+
+
+main section aside {
+	background-color: #888888;
+	padding: 0.25em 1em 1em;
+	margin: 0 1em 1em 1em;	
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 20%;
+	max-height: 20em;
+	border-radius: 1em 2em 1em 0;
+	box-shadow: 5px 5px 20px black;
+}
+
+main section ul a {
+	color: white;
+	text-decoration: none;
+	cursor: pointer;
+
+}
+
+main section li {
+	padding-bottom: 10px;
+}
+
+main section dfn {
+	text-decoration: underline;
+}
+
+#brukstips {
+	text-indent: 40px;
+}
+
+.k06 {
+	color: white;
+	border: none;
+	background: none;
+    cursor: pointer;
+
+}
+
+button:focus {
+    outline: none;
+}
+
+article {
+
+	
+}
+
+
+footer {
+	background-color: black;
+	position: static;
+}
+

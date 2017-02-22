@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<maalTrinn7 xmlns="http://"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="maalTrinn7.xsd">
+
+<!-- Hei -->
+
+<li>
+	<title>oppfatte og anvende puls, rytme, form, melodi, klang, dynamikk, tempo og enkel harmonikk i lytting og musisering</title>
+	<num>K06_07_M1</num>
+	<stikkord>musikkoversikt</stikkord>
+	<type>musisering</type>
+	<elevMaal>Eleven skal kunne finne pulsen i musikken.</elevMaal>
+	<elevMaal>Eleven skal kunne orientere seg i det musikalske landskapet.</elevMaal>
+	<elevMaal>Eleven skal kunne følge og lede tempovariasjon.</elevMaal>
+	<elevMaal>Eleven skal kunne klappe, trampe, spille, synge rytmer/melodien.</elevMaal>
+	<elevMaal>Elevene skal kunne variere kraften med stemme, med spill og uttrykket i dans.</elevMaal>
+	<elevMaal>Eleven skal kunne synge, spille og danse variasjonstema mot hovedtema.</elevMaal>
+	<elevMaal>Eleven skal kunne vite når en del av musikken begynner og når den er ferdig.</elevMaal>
+	<elevMaal>Eleven skal kunne variere sin klang i sang og spill.</elevMaal>
+</li>
+
+<li>
+	<title>synge unisont og flerstemt i gruppe med vekt på intonasjon , klang og uttrykk</title>
+	<num>K06_07_M2</num>
+	<stikkord>samarbeid og stemme</stikkord>
+	<type>musisering</type>
+	<elevMaal>Eleven skal bli kjent med sitt sanginstrument.</elevMaal>
+	<elevMaal>Eleven skal kunne synge enstemmig sammen med andre.</elevMaal>
+	<elevMaal>Eleven skal kunne høre om tonen som han/hun synger er den samme som de andre.</elevMaal>
+	<elevMaal>Eleven skal kunne klare å synge sin gruppes stemme samtidig som en annen gruppe synger noe annet.</elevMaal>
+	<elevMaal>Eleven skal kunne bruke vokaler og konsonanter i sang for å gi musikken en karakter/uttrykk.</elevMaal>
+	<elevMaal>Eleven skal kunne variere klangen i sine vokaler og forstå at noen klanger er lettere å synge pga. resonans.</elevMaal>
+</li>
+
+<li>
+	<title>beherske enkelt melodispill etter gehør og enkle harmoniske og rytmiske akkompagnement</title>
+	<num>K06_07_M3</num>
+	<stikkord>gehør og akkompagnement</stikkord>
+	<type>musisering</type>
+	<elevMaal>Eleven skal opparbeide et gehør som er uavhengig av instrument.</elevMaal>
+	<elevMaal>Eleven skal kunne mollskalaen og durskalaen.</elevMaal>
+	<elevMaal>Eleven skal kunne spille en enkel melodi etter gehør.</elevMaal>
+	<elevMaal>Eleven skal kunne spille en enkel melodi på gitar, piano eller klokkespill(melodi).</elevMaal>
+	<elevMaal>Elevene skal kunne spille gitar, piano eller klokkespill til enkle melodier(harmonikk).</elevMaal>
+</li>
+
+<li>
+	<title>framføre sanger og viser fra eldre og nyere tid</title>
+	<num>K06_07_M4</num>
+	<stikkord>sangskatt</stikkord>
+	<type>musisering</type>
+	<elevMaal>Eleven skal kunne viser fra nyere tids komponister som Lillebjørn Nilsen, Halvdan Sivertsen, Øystein Sunde, Jan Eggum, m.fl.</elevMaal>
+	<elevMaal>Eleven skal kunne tradisjonelle viser.</elevMaal>
+	<elevMaal>Eleven skal kunne synge sanger fra folkemusikken og populærmusikken.</elevMaal>
+</li>
+
+<li>
+	<title>beherske noen norske danser og danser fra andre land</title>
+	<num>K06_07_M5</num>
+	<stikkord>dans</stikkord>
+	<type>musisering</type>
+	<elevMaal>Eleven skal kunne danse polka.</elevMaal>
+	<elevMaal>Eleven skal kunne danse troika.</elevMaal>
+	<elevMaal>Eleven skal kunne danse pols.</elevMaal>
+	<elevMaal>Eleven skal kunne danse reinlender.</elevMaal>
+	<elevMaal>Eleven skal kunne danse vals.</elevMaal>
+	<elevMaal>Eleven skal kunne danse polonaise.</elevMaal>
+	<elevMaal>Eleven skal kunne danse jenka.</elevMaal>
+	<elevMaal>Eleven skal kunne danse swing.</elevMaal>
+	<elevMaal>Eleven skal kunne danse linedance.</elevMaal>
+	<elevMaal>Eleven skal kunne danse blimedansen.</elevMaal>
+</li>
+
+<li>
+	<title>delta i framføring med sang, spill og dans der egenkomponert musikk og dans inngår</title>
+	<num>K06_07_M6</num>
+	<stikkord>fremføring og publikum</stikkord>
+	<type>musisering</type>
+	<elevMaal>Eleven skal kunne fremføre musikk, konsentrert, sammen med andre.</elevMaal>
+	<elevMaal>Eleven skal kunne mestre prestasjonspress via pust, avspenning og konsentrasjon.</elevMaal>
+	<elevMaal>Eleven skal kunne komponere musikk og dans som de vet skal fremføres.</elevMaal>
+	<elevMaal>Eleven skal kunne synge, spille og danse foran andre.</elevMaal>
+</li>
+
+
+
+
+
+<li>
+	<title>improvisere med stemme og instrumenter med utgangspunkt i enkle rytmiske, melodiske og harmoniske mønstre</title>
+	<num>K06_07_K1</num>
+	<stikkord>improvisering og mønstre</stikkord>
+	<type>komponering</type>
+	<elevMaal>Eleven skal kunne synge, klappe og spille enkle rytmer.</elevMaal>
+	<elevMaal>Elevene skal kunne synge, klappe og spille enkle melodier.</elevMaal>
+	<elevMaal>Elevene skal kunne synge, klappe og spille enkle harmonier.</elevMaal>
+</li>
+
+<li>
+	<title>uttrykke egne ideer, tanker og følelser gjennom bevegelser og dans</title>
+	<num>K06_07_K2</num>
+	<stikkord>ekspresiv dans</stikkord>
+	<type>komponering</type>
+	<elevMaal>Eleven skal kunne bevege seg fritt til musikk.</elevMaal>
+	<elevMaal>Eleven skal kunne gi og ta imot koreografi.</elevMaal>
+	<elevMaal>Eleven skal kunne bevege seg meningsfullt til musikk.</elevMaal>
+	<elevMaal>Eleven skal kunne forstå og bruke sitt eget kroppssspråk i dans og bevegelse.</elevMaal>
+	<elevMaal>Eleven skal kunne forstå betydningen av vår kulturs gester og bruke det i dans.</elevMaal>
+	<elevMaal>Eleven skal kunne forstå betydningen av andre kulturers gester og bruke det i dans.</elevMaal>
+</li>
+
+<li>
+	<title>lage egne komposisjoner med utgangspunkt i enkle musikalske former og motiver og bruke grafisk notasjon til å lage skisser av komposisjonene</title>
+	<num>K06_07_K3</num>
+	<stikkord>musikalsk skrift</stikkord>
+	<type>komponering</type>
+	<elevMaal>Eleven skal kunne tegne ned rytmer vha. grafisk notasjon.</elevMaal>
+	<elevMaal>Eleven skal kunne tegne ned lange toner vha. grafisk notasjon.</elevMaal>
+	<elevMaal>Eleven skal kunne tegne ned lydkilden i den grafiske notasjonen.</elevMaal>
+	<elevMaal>Eleven skal kunne bruke grafisk notasjon for å tegne ned en musikalsk idé.</elevMaal>
+</li>
+
+<li>
+	<title>komponere og gjøre lydopptak ved hjelp av digitale verktøy</title>
+	<num>K06_07_K4</num>
+	<stikkord>digitale verktøy</stikkord>
+	<type>komponering</type>
+	<elevMaal>Eleven skal kunne gjøre lydopptak med "SP-505"(Roland) og lage en komposisjon.</elevMaal>
+	<elevMaal>Eleven skal kunne bruke de enkleste komposisjonsmulighetene på "The Maschine"(Native Instruments).</elevMaal>
+</li>
+
+
+<li>
+	<title>gjenkjenne musikk fra historiske hovedepoker i kunstmusikken</title>
+	<num>K06_07_L1</num>
+	<stikkord>kunstmusikk historie</stikkord>
+	<type>lytting</type>
+	<elevMaal>Eleven skal kunne kjenne igjen musikk fra renessansen.</elevMaal>
+	<elevMaal>Eleven skal kunne kjenne igjen musikk fra barokken.</elevMaal>
+	<elevMaal>Eleven skal kunne kjenne igjen musikk fra wienerklassissismen.</elevMaal>
+	<elevMaal>Eleven skal kunne kjenne igjen musikk fra romantikken.</elevMaal>
+</li>
+
+<li>
+	<title>diskutere særtrekk ved kunstmusikk, norsk og samisk folkemusikk, folkemusikk fra andre land og rytmisk musikk</title>
+	<num>K06_07_L2</num>
+	<stikkord>sammenligne musikk kunst folk rytmisk</stikkord>
+	<type>lytting</type>
+	<elevMaal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i kunstmusikken.</elevMaal>
+	<elevMaal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i norsk folkemusikk.</elevMaal>
+	<elevMaal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i samisk folkemusikk.</elevMaal>
+	<elevMaal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i verdens folkemusikk.</elevMaal>
+	<elevMaal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i rytmisk musikk.</elevMaal>
+</li>
+
+<li>
+	<title>gi uttrykk for opplevelser i møte med verker av sentrale komponister fra kunstmusikken</title>
+	<num>K06_07_L3</num>
+	<stikkord>verbalisere opplevelser kunstmusikk</stikkord>
+	<type>lytting</type>
+	<elevMaal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Bojarenes Inntogsmarsj" av Johan Halvorsen.</elevMaal>
+	<elevMaal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Finalen fra Svanesjøen" av Tsjaikovskij.</elevMaal>
+	<elevMaal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Solveigs sang" av Edvard Grieg.</elevMaal>
+	<elevMaal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Nocturne op.9 No.2" av Frédéric Chopin.</elevMaal>
+	<elevMaal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Finlandia" av Jean Sibelius.</elevMaal>
+	<elevMaal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Liebestraum - Love Dream" av Franz Liszt.</elevMaal>
+	<elevMaal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Sabre Dance" av  Aram Khachaturian.</elevMaal>
+	<elevMaal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Can Can" av Jacques Offenbach.</elevMaal>
+</li>
+
+<li>
+	<title>gjenkjenne klangen til og benevne de ulike instrumentgruppene</title>
+	<num>K06_07_L4</num>
+	<stikkord>instrumenter kunstmusikk</stikkord>
+	<type>lytting</type>
+	<elevMaal>Eleven skal kunne navnene på instrumentgruppene i klassisk musikk.</elevMaal>
+	<elevMaal>Eleven skal gjenkjenne strykerne.</elevMaal>
+	<elevMaal>Eleven skal gjenkjenne messingblåserne.</elevMaal>
+	<elevMaal>Eleven skal gjenkjenne treblåserne.</elevMaal>
+	<elevMaal>Eleven skal gjenkjenne slagverk.</elevMaal>
+</li>
+
+<li>
+	<title>samtale om hvordan musikk både er et kunstnerisk uttrykk og en kommersiell vare</title>
+	<num>K06_07_L5</num>
+	<stikkord>musikk vare og kunst</stikkord>
+	<type>lytting</type>
+	<elevMaal>Eleven skal kunne samtale om musikk som budskap.</elevMaal>
+	<elevMaal>Eleven skal kunne snakke om musikk som salgsvare.</elevMaal>
+	<elevMaal>Eleven skal kunne snakke om hvordan musikk virker.</elevMaal>
+	<elevMaal>Eleven skal kunne samtale om kvalitet i musikken.</elevMaal>
+	<elevMaal>Eleven skal kunne samtale om musikkens hensikt.</elevMaal>
+</li>
+
+<li>
+	<title>gi uttrykk for egne vurderinger om hvordan musikkens bruk og funksjon har endret seg gjennom tidene</title>
+	<num>K06_10_L6</num>
+	<stikkord>endring bruk og hensikt</stikkord>
+	<type>lytting</type>
+	<elevMaal>Eleven skal kunne vurdere musikkens bruk.</elevMaal>
+	<elevMaal>Eleven skal kunne noe om musikkens vugge.</elevMaal>
+	<elevMaal>Eleven skal kunne noe om nedtegnelse av musikk.</elevMaal>
+	<elevMaal>Eleven skal kunne noe om vuggeviser, gjeteviser, stev(folkemusikk).</elevMaal>
+	<elevMaal>Eleven skal kunne noe om opera, ballett(klassisk musikk).</elevMaal>
+	<elevMaal>Eleven skal kunne noe om negro spirituals, soul, gospel(religiøs musikk).</elevMaal>
+	<elevMaal>Eleven skal kunne noe om reggae, hip hop, punk(politisk musikk).</elevMaal>
+	<elevMaal>Eleven skal kunne noe om dansband, folkedans(dansemusikk).</elevMaal>
+	<elevMaal>Eleven skal kunne noe om techno, dubstep, ambience, (teknologisk musikk).</elevMaal>
+	<elevMaal>Eleven skal kunne noe om (populærmusikk).</elevMaal>
+</li>
+
+
+
+
+</maalTrinn7>

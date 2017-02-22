@@ -1,0 +1,52 @@
+main section table {
+	float: left;
+	margin: 0 20px 20px 0;
+	text-align: center;
+	border: none;
+
+}
+
+main section th {
+	width: 55px;
+	text-align: right; /* Slik at båndtallet kommer nærmet mulig streken */
+}
+
+main section tr {
+
+}
+
+main section td {
+	border: solid 1px orange;
+	background-color: blue;	
+
+
+}
+
+#st {
+	background-color: #333366;
+	border: none;
+}
+
+.b01, .b02, .b03, .b04, .b05, .b06 {
+	background-color: green;
+	text-align: left;
+}
+
+.b06 {
+/*	background-color: yellow;*/
+}
+
+.E3butt {
+	text-decoration: none;
+	color: white;
+}
+
+.E3butt:hover {
+	cursor: pointer;
+	border: none;
+	background-color: red;
+}
+
+.E3butt:hover .tabellmor.b06{
+	background-color: red;
+}
