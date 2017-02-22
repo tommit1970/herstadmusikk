@@ -1,6 +1,5 @@
 #Any .gitignore
-#Her har jeg ramset opp filtyper og filer som ikke skal git'es - dvs. files som ikke skal være med rundtomkring fordi
-de tar for mye plass eller ikke trenger å se offentlighetens lys
+#Her har jeg ramset opp filtyper og filer som ikke skal git'es - dvs. files som ikke skal være med rundtomkring fordi de tar for mye plass eller ikke trenger å se offentlighetens lys
 
 Prog.plan*.*
 
