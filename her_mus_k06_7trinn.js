@@ -1,3 +1,4 @@
+/////////////////////////////////////////////////////////////////////////////////
 // Tenkt forbedring: Jeg skal få hentet var k06_mus-tabellen via elevmaal7.xml
 
 makeAside_GoalArray();
@@ -13,7 +14,7 @@ function makeAside_GoalArray(){
 		}
 	}
 	
-	xhttp.open('GET', 'K-06ElevensMaal/maalTrinn7.xml', true);
+	xhttp.open('GET', 'K-06ElevensMaal/maalTrinn7incTasks.xml', true);
 	xhttp.send();
 }
 
@@ -38,7 +39,7 @@ function randomNum(tabell){
 }
 
 
-
+//////////////////////////////////////////////////////////////////////////////////
 
 // Her er en EventListener koblet til alle punktene, altså alle-punkt-button-id='k06_07_0[1-6]'
 
@@ -152,7 +153,7 @@ function firstLevelFunction(num){
 		}
 	}
 
-  xhttp.open("GET", "K-06ElevensMaal/maalTrinn7.xml", true);
+  xhttp.open("GET", "K-06ElevensMaal/maalTrinn7incTasks.xml", true);
   xhttp.send();
   
 //  console.log('Hopp');
@@ -173,7 +174,7 @@ function myFunction(xml, num){
 	var y = x.firstChild;
 	
 	for(var i = 0; i < xlen; i++){
-		if(y.nodeType == 1 && y.nodeName == 'elevMaal'){
+		if(y.nodeType == 1 && y.nodeName == 'name'){
 			
 			if(i < xlen-3){ // 3 fordi det finnes flere siblings???? tror jeg
 				txt += y.childNodes[0].nodeValue + '</li>\n<li>';

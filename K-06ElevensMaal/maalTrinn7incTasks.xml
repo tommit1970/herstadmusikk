@@ -393,21 +393,21 @@ Her er en liten stikkordliste til punktene og hvor de er plassert sånn circa.
 	<stikkord>digitale verktøy</stikkord>
 	<type>komponering</type>
 	<elevMaal>
-		<name>Eleven skal kunne gjøre lydopptak med "SP-505"(Roland) og lage en komposisjon.</name>
+		<name>Eleven skal kunne bruke pattern sequencer på SP-404(Roland).</name>
+		<task>Be eleven om å lage en 4-takts rytme ved hjelp av quantize(4 eller 8).</task>
+		<comment></comment>	
+	</elevMaal>
+
+	<elevMaal>
+		<name>Eleven skal kunne lage en komposisjon utfra utvalgte/innlastede lyder på "SP-404"(Roland).</name>
 		<task>Be eleven om å gjøre seg kjent med funksjonene til opptakeren og lage en komposisjon utfra valgte lydfiler.</task>
 		<comment>Legg inn lyder i sampleren som er urytmiske og lange! Vindsus, måkeskrik, tog som passerer, osv. Grupper bankene med ulike lyder! F.eks. hav(bank A), transport(bank B), avslapning(bank C), metall(bank D), alderdom(knirk)(bank E), osv.</comment>
 	</elevMaal>
 
 	<elevMaal>
-		<name>Eleven skal kunne bruke de enkleste komposisjonsmulighetene på "Aesis"(Native Instruments).</name>
-		<task></task>
-		<comment></comment>	
-	</elevMaal>
-	
-	<elevMaal>
 		<name>Eleven skal kunne bruke de enkleste komposisjonsmulighetene på "The Maschine"(Native Instruments).</name>
-		<task></task>
-		<comment></comment>	
+		<task>Be eleven om å laste inn lyder på "The Maschine", bruke Group og Scene i en komposisjon.</task>
+		<comment>Gi navn til og lagre prosjektet(1), last inn lyder i Group A/B/C/osv.(2), velg takter i pattern(3), juster volum på click(4), start opptak av rytmer først(5), start opptak av melodier(6), dupliser patterns/scenes og endre de(7), arranger komposisjon(8). </comment>	
 	</elevMaal>
 </li>
 
