@@ -27,21 +27,6 @@ header {
 				
 }
 
-nav {
-	width: 60%;
-	margin: 0 25% 0;
-	text-align: left;
-	background-color: #336633;
-	padding: 1em 1em 0;
-	border-radius: 1em 2em 0 0;
-}
-
-div.boxbottom{
-    background-color: olive;
-    color: white;
-    border-radius: 1em 2em 0 0;
-    padding: 1em 1em 0;
-	}	
 
 main section img {
 	height: 75px;
@@ -59,10 +44,11 @@ main section .tidligere a {
 	padding: 0 5px;
 }
 	
-main section {
+section {
 	position: relative;
 }
-main section div.h {
+
+section #master article {
 	background-color: #333366;
 	padding: 0.25em 1em 1em;
 	margin: 0 1em 1em 1em;
@@ -77,7 +63,7 @@ main section div.h {
 
 
 
-main section aside {
+section #master aside {
 	background-color: #888888;
 	padding: 0.25em 1em 1em;
 	margin: 0 1em 1em 1em;	
@@ -90,26 +76,53 @@ main section aside {
 	box-shadow: 5px 5px 20px black;
 }
 
-main section ul a {
+
+section #sub{
+	min-width: 2000px;
+	white-space: nowrap;
+}
+
+section #sub article{
+	float: left;
+	width: 500px;
+	height: 300px;
+	padding:10px;
+	text-align:left;
+	background-color:brown;
+	border-radius:10px;
+}
+
+section #sub aside{
+	float: left;
+	width: 500px;
+	height: 300px;
+	padding:10px;
+	margin: 0 0 0 10px;
+	text-align:left;
+	background-color: pink;
+	border-radius:10px;"	
+}
+
+section ul a {
 	color: white;
 	text-decoration: none;
 	cursor: pointer;
 
 }
 
-main section li {
+section li {
 	padding-bottom: 10px;
 }
 
-main section dfn {
+section dfn {
 	text-decoration: underline;
 }
 
-#brukstips {
+#brukstips { //index.php?
 	text-indent: 40px;
 }
 
-.k06 {
+button {
 	color: white;
 	border: none;
 	background: none;
@@ -121,13 +134,9 @@ button:focus {
     outline: none;
 }
 
-article {
-
-	
-}
-
 
 footer {
+	clear: both;
 	background-color: black;
 	position: static;
 }
