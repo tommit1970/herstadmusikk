@@ -170,26 +170,67 @@ function myFunction(xml, num){
 	var xmlDoc = xml.responseXML;
 	var txt = '<li>';
 	var x = xmlDoc.getElementsByTagName('li')[num];
-	var xlen = x.childNodes.length;
-	var y = x.firstChild;
+	var y = x.childNodes;
 	
-	for(var i = 0; i < xlen; i++){
-		if(y.nodeType == 1 && y.nodeName == 'name'){
+	var title = x.childNodes[1];
+	var num = title.nextSibling.nextSibling;
+	var stikkord = num.nextSibling.nextSibling;
+	var type = stikkord.nextSibling.nextSibling;
+	var elevMaal = type.nextSibling.nextSibling;
+	var z = elevMaal.childNodes;
+
+	var lenList = y.length;
+	var newList = (lenList - (1 + 8) / 2);
+	var lenElevMaalList = z.length;
+	
+	console.log('The <li> har ' + lenList + ' childNodes.');
+	console.log('Each elevMaalTag has a length of: ' + lenElevMaalList);
+	
+	
+	console.log(title.firstChild);
+	console.log(num.firstChild);
+	console.log(stikkord.firstChild);
+	console.log(type.firstChild);
+
+		console.log(y);
+		console.log(z);
+		
+	for(var i = 1; i < lenList; i+=2){
+		
+			console.log(i);
 			
-			if(i < xlen-3){ // 3 fordi det finnes flere siblings???? tror jeg
-				txt += y.childNodes[0].nodeValue + '</li>\n<li>';
-			}else{
-				txt += y.childNodes[0].nodeValue + '</li>\n';
+					
+		if(y[i].nodeType == 1 && y[i].nodeName == 'elevMaal'){
+			
+			console.log("--------elevMaal----------");
+			
+			var temp;
+			
+			for(var i2 = 1;i2 < lenElevMaalList; i2+=2){
+				
+				if(z[i2].nodeType == 1 && (z[i2].nodeName == 'name' || z[i2].nodeName == 'task' || z[i2].nodeName == 'comment') ){
+			
+					temp = elevMaal.childNodes[i2];
+
+					console.log(temp.firstChild);
+				}
 			}
+			
+			elevMaal = elevMaal.nextSibling.nextSibling;
 		}
-		y = y.nextSibling;
+
 	}
 	
 	
+	
+	
+	/*
 	// console.log(txt);
 	
 	txt = '<h1>Oppdeling av læringsmål ' + (num+1) + '</h1><br/>\n<ul>' + txt + '</ul>';
-   document.getElementById("point").innerHTML = txt; 	
+   document.getElementById("point").innerHTML = txt;
+   
+   */
 
 }
 

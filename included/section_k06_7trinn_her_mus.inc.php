@@ -206,6 +206,8 @@
 
 <section id="point" style="padding:10px;text-align:left;background-color:brown;border-radius:10px;">
 </section>
+<section id="point2" style="padding:10px;text-aling:left;background-color: pink;border-radius:10px;">
+</section>
 
 <!--
 <dfn title=""><a href="#"></a></dfn>
