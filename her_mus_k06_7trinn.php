@@ -19,9 +19,9 @@
 
 
 		<section>
-			<div id="master">
+			<div class="master">
 				<h2>Kunnskapsløftet (K-06)</h2>
-				<article id="k06_07_maal_alle">
+				<article id="K06_07_maal_alle">
 
 				<h3><u>M&aring;l etter 7.trinn</u></h3><h4 id="brukstips">Trykk på et listepunkt(link) eller la musepekeren sveve over et ord i kursiv(definisjon)</h4>
 
@@ -30,7 +30,7 @@
 					M&aring;l for oppl&#230;ringen er at eleven skal kunne
 					<ul>
 						<li><!-- oppfatte og anvende puls, rytme, form, melodi, klang, dynamikk og enkel harmonikk i lytting og musisering -->
-							<button  id="k06_07_01">
+							<button  id="K06_07_M1">
 							<a href="#elevMaaltitle">
 							<dfn title=
 								"Å oppfatte er det samme som å forstå.">
@@ -72,7 +72,7 @@
 							</button>
 						</li>
 						<li><!-- synge unisont og flestemt i gruppe med vekt på intonasjon, klang og uttrykk -->
-						<button  id="k06_07_02">
+						<button  id="K06_07_M2">
 						<a href="#elevMaaltitle">
 							synge
 							<dfn title=
@@ -90,7 +90,7 @@
 							</button>
 						</li>
 						<li><!-- beherske enkelt melodispill etter gehør og enkle harmoniske og rytmiske akkompagnement -->
-						<button  id="k06_07_03">
+						<button  id="K06_07_M3">
 							<a href="#elevMaaltitle">
 							beherske 
 							<dfn title="Enkelt melodispill betyr melodier som er korte og rytmisk enkle med rolig tempo og enkel styrkevariasjon.">
@@ -105,7 +105,7 @@
 						</button>
 						</li>
 						<li><!-- framføre sanger og viser fra eldre og nyere tid -->
-						<button  id="k06_07_04">
+						<button  id="K06_07_M4">
 							<a href="#elevMaaltitle">
 							framf&oslash;re sanger og viser fra 
 							<dfn title="Nyere tid må vel være etter 1970 og eldre tid før det.">
@@ -114,7 +114,7 @@
 						</button>
 						</li>
 						<li><!-- beherske noen norske danser og danser fra andre land -->
-						<button  id="k06_07_05">
+						<button  id="K06_07_M5">
 							<a href="#elevMaaltitle">
 							beherske noen 
 							<dfn title="F.eks. Polka, Reinlender, Ril og Pols....">
@@ -126,7 +126,7 @@
 						</button>
 						</li>
 						<li><!-- delta i framføring med sang, spill og dans der egenkomponert musikk og dans inngår --><!--  -->
-						<button  id="k06_07_06">
+						<button  id="K06_07_M6">
 							<a href="#elevMaaltitle">
 							delta i framf&oslash;ring med sang, spill og dans der 
 							<dfn title="Eleven(e) har laget en enkel komposisjon(musikk og/eller dans). Fokus på enkelhet i Dynamikk/Styrke, Form/Mønster, Harmonikk/Flere, Klang/Stemning, Melodi/Tema/Motiv, Puls/Grunnslag, Rytme og Tempo/Fart.">
@@ -141,7 +141,7 @@
 					M&aring;l for oppl&oslash;ringen er at eleven skal kunne
 					<ul>
 						<li>
-						<button  id="k06_07_07">
+						<button  id="K06_07_K1">
 							<a href="#elevMaaltitle">
 							improvisere med stemme og instrumenter med utgangspunkt i enkle rytmiske, melodiske og harmoniske m&oslash;nstre
 							</a>
@@ -149,20 +149,20 @@
 						</li>
 						
 						<li>
-						<button  id="k06_07_08">
+						<button  id="K06_07_K2">
 							<a href="#elevMaaltitle">			
 							uttrykke egne ideer, tanker og f&oslash;lelser gjennom bevegelser og dans
 							</a>
 						</button>			
 						</li>
 						<li>
-						<button  id="k06_07_09">
+						<button  id="K06_07_K3">
 							<a href="#elevMaaltitle">lage egne komposisjoner med utg.pkt. i enkle musikalske former og motiver og bruke grafisk notasjon til &aring; lage skisser av komposisjonene
 							</a>
 						</button>			
 						</li>
 						<li>
-						<button  id="k06_07_10">
+						<button  id="K06_07_K4">
 							<a href="#elevMaaltitle">			
 							komponere og gj&oslash;re lydopptak ved hjelp av digitale verkt&oslash;y
 							</a>
@@ -174,42 +174,42 @@
 					M&#229;l for oppl&#230;ringen er at eleven skal kunne
 					<ul>
 						<li>
-						<button  id="k06_07_11">
+						<button  id="K06_07_L1">
 							<a href="#elevMaaltitle">			
 							gjenkjenne musikk fra historiske hovedepoker i kunstmusikken
 							</a>
 						</button>			
 						</li>
 						<li>
-						<button  id="k06_07_12">
+						<button  id="K06_07_L2">
 							<a href="#elevMaaltitle">			
 							diskutere s&#230;rtrekk ved kunstmusikk, norsk og samisk folkemusikk, folkemusikk fra andre land og rytmisk musikk
 							</a>
 						</button>			
 						</li>
 						<li>
-						<button  id="k06_07_13">
+						<button  id="K06_07_L3">
 							<a href="#elevMaaltitle">			
 							gi uttrykk for opplevelser i m&#248;te med verker av sentrale komponister fra kunstmusikken
 							</a>
 						</button>			
 						</li>
 						<li>
-						<button  id="k06_07_14">
+						<button  id="K06_07_L4">
 							<a href="#elevMaaltitle">			
 							gjenkjenne klangen til og benevne de ulike instrumentgruppene
 							</a>
 						</button>			
 						</li>
 						<li>
-						<button  id="k06_07_15">
+						<button  id="K06_07_L5">
 							<a href="#elevMaaltitle">			
 							samtale om hvordan musikk b&#229;de er et kunstnerisk uttrykk og en kommersiell vare
 							</a>
 						</button>			
 						</li>
 						<li>
-						<button  id="k06_07_16">
+						<button  id="K06_07_L6">
 							<a href="#elevMaaltitle">			
 							gi uttrykk for egne vurderinger om hvordan musikkens bruk og funksjon har endret seg gjennom tidene
 							</a>
@@ -220,7 +220,7 @@
 				</article>
 
 			
-				<aside id="k06_07_maal_utvalgt">
+				<aside id="K06_07_valgt">
 					<h4>Hva betyr å</h4>
 						<p><li id="randomGoal"></li></p>
 				</aside>
@@ -234,11 +234,12 @@
 		</section>
 		
 		<section>
-			<div id="sub">
+			<div class="sub">
 				<article>
-					<div id="k06_num">
-					</div><div id="k06_stikkord"></div>
-					<div id="k06_type"></div>
+					<div id="K06_tittel"></div>
+					<div id="K06_num"></div>
+					<div id="K06_stikkord"></div>
+					<div id="K06_type"></div>
 				</article>
 				
 				<aside>

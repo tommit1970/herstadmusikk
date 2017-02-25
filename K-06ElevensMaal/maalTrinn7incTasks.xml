@@ -6,9 +6,9 @@ xsi:schemaLocation="maalTrinn7.xsd">
 
 <!-- Dette er den modifiserte versjonen av maalTrinn7.xml Jeg legger inn 
 	<elevMaal>
-		<name></name> // målet er flyttet inn hit
-		<task></task> // en oppgave er knyttet til målet
-		<comment></comment> // assosiasjoner til oppgaven er i kommentaren
+		<maal></maal> // målet er flyttet inn hit
+		<oppgave></oppgave> // en oppgave er knyttet til målet
+		<kommentar></kommentar> // assosiasjoner til oppgaven er i kommentaren
 	</elevMaal>
 	
 Her er en liten stikkordliste til punktene og hvor de er plassert sånn circa.
@@ -32,641 +32,641 @@ Her er en liten stikkordliste til punktene og hvor de er plassert sånn circa.
 -->
 
 <li>
-	<title>oppfatte og anvende puls, rytme, form, melodi, klang, dynamikk, tempo og enkel harmonikk i lytting og musisering</title>
+	<tittel>oppfatte og anvende puls, rytme, form, melodi, klang, dynamikk, tempo og enkel harmonikk i lytting og musisering</tittel>
 	<num>K06_07_M1</num>
 	<stikkord>musikkoversikt</stikkord>
 	<type>musisering</type>
 	<elevMaal>
-		<name>Eleven skal kunne lage eller finne pulsen i musikk.</name>
-		<task>Be eleven om å lage eller herme pulsen med stemme, klapp, tramp eller instrument.</task>
-		<comment>Puls og takt: 2-takt, 4-takt, 3-takt, 5-takt, osv.</comment>
+		<maal>Eleven skal kunne lage eller finne pulsen i musikk.</maal>
+		<oppgave>Be eleven om å lage eller herme pulsen med stemme, klapp, tramp eller instrument.</oppgave>
+		<kommentar>Puls og takt: 2-takt, 4-takt, 3-takt, 5-takt, osv.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne følge og lede tempovariasjon.</name>
-		<task>Be eleven om å øke og senke tempo på en puls.</task>
-		<comment>Tempo: Slag i minuttet. Engelsk: BPM(beat per minute).</comment>
+		<maal>Eleven skal kunne følge og lede tempovariasjon.</maal>
+		<oppgave>Be eleven om å øke og senke tempo på en puls.</oppgave>
+		<kommentar>Tempo: Slag i minuttet. Engelsk: BPM(beat per minute).</kommentar>
 	</elevMaal>
 
 	<elevMaal>
-		<name>Eleven skal kunne rytmisere.</name>
-		<task>Be eleven om lage en rytme med stemme, klapp, tramp eller spill.</task>
-		<comment>Rytme: Herming. Skaping. Egen notasjon. Grafisk notasjon. Djembenotasjon. Tradisjonell notasjon.</comment>
+		<maal>Eleven skal kunne rytmisere.</maal>
+		<oppgave>Be eleven om lage en rytme med stemme, klapp, tramp eller spill.</oppgave>
+		<kommentar>Rytme: Herming. Skaping. Egen notasjon. Grafisk notasjon. Djembenotasjon. Tradisjonell notasjon.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne rytmisere(klappe/trampe/tromme) en melodi.</name>
-		<task>Be eleven om å rytmisere(klappe/trampe/tromme) en kjent sang.</task>
-		<comment>Rytme/Melodi: Gehør og rytme(Barnesanger til kjente Popsanger)</comment>
+		<maal>Eleven skal kunne rytmisere(klappe/trampe/tromme) en melodi.</maal>
+		<oppgave>Be eleven om å rytmisere(klappe/trampe/tromme) en kjent sang.</oppgave>
+		<kommentar>Rytme/Melodi: Gehør og rytme(Barnesanger til kjente Popsanger)</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne synge eller spille en melodi.</name>
-		<task>Be eleven om å synge eller spille en kjent sang.</task>
-		<comment>Melodi: Gehør, rytme og tonikk(Barnesanger til kjente Popsanger)</comment>
+		<maal>Eleven skal kunne synge eller spille en melodi.</maal>
+		<oppgave>Be eleven om å synge eller spille en kjent sang.</oppgave>
+		<kommentar>Melodi: Gehør, rytme og tonikk(Barnesanger til kjente Popsanger)</kommentar>
 	</elevMaal>	
 	
 	<elevMaal>
-		<name>Elevene skal kunne variere kraften i instrumentspill, med stemme og i dans.</name>
-		<task>Be eleven om å spille/synge/danse svakt og gradivis øke kraften, for deretter å gjøre det motsatte.</task>
-		<comment>Dynamikk: Terassedynamikk eller gradivis dynamikk. Accent(markering) Marcato(med ettertrykk) Staccato(korte toner) Tenuto(hele tonens lengde) Rubato(puls opphører, altså kortere eller lengre toner enn forventet) Legato(toner limt sammen med bindebue, frase)</comment>
+		<maal>Elevene skal kunne variere kraften i instrumentspill, med stemme og i dans.</maal>
+		<oppgave>Be eleven om å spille/synge/danse svakt og gradivis øke kraften, for deretter å gjøre det motsatte.</oppgave>
+		<kommentar>Dynamikk: Terassedynamikk eller gradivis dynamikk. Accent(markering) Marcato(med ettertrykk) Staccato(korte toner) Tenuto(hele tonens lengde) Rubato(puls opphører, altså kortere eller lengre toner enn forventet) Legato(toner limt sammen med bindebue, frase)</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne synge, spille og danse variasjonstema mot hovedtema.</name>
-		<task>Be eleven om å spille eller synge et variasjonstema mot et hovedtema.</task>
-		<comment>Harmonikk: Kanon og 2.stemme</comment>
+		<maal>Eleven skal kunne synge, spille og danse variasjonstema mot hovedtema.</maal>
+		<oppgave>Be eleven om å spille eller synge et variasjonstema mot et hovedtema.</oppgave>
+		<kommentar>Harmonikk: Kanon og 2.stemme</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne bruke og kjenne igjen små musikalske elementer som motiv og frase.</name>
-		<task>Be eleven om å synge/spille et motiv eller en frase fra en sang vi jobber med.</task>
-		<comment>Form: toner, motiv, frase, småelementer.</comment>
+		<maal>Eleven skal kunne bruke og kjenne igjen små musikalske elementer som motiv og frase.</maal>
+		<oppgave>Be eleven om å synge/spille et motiv eller en frase fra en sang vi jobber med.</oppgave>
+		<kommentar>Form: toner, motiv, frase, småelementer.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne vite når en vesentlig del av musikken begynner og når den er ferdig, i spill og lytting.</name>
-		<task>Be eleven om å synge/spille et vers, et refreng eller et mellomspill/stikk fra en sang vi jobber med.</task>
-		<comment>Form: intro outro vers refreng mellomspill/stikk melodi tema storelementer</comment>
+		<maal>Eleven skal kunne vite når en vesentlig del av musikken begynner og når den er ferdig, i spill og lytting.</maal>
+		<oppgave>Be eleven om å synge/spille et vers, et refreng eller et mellomspill/stikk fra en sang vi jobber med.</oppgave>
+		<kommentar>Form: intro outro vers refreng mellomspill/stikk melodi tema storelementer</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne variere sin klang i sang og spill.</name>
-		<task>Be eleven om å synge med lang eller kort klang i ulike rom. Prøv også nasal klang, brystklang og hodeklang!</task>
-		<comment>Klang: etterklang og lydens kvalitet(spiss/rund klang)</comment>
+		<maal>Eleven skal kunne variere sin klang i sang og spill.</maal>
+		<oppgave>Be eleven om å synge med lang eller kort klang i ulike rom. Prøv også nasal klang, brystklang og hodeklang!</oppgave>
+		<kommentar>Klang: etterklang og lydens kvalitet(spiss/rund klang)</kommentar>
 	</elevMaal>
 </li>
 
 <li>
-	<title>synge unisont og flerstemt i gruppe med vekt på intonasjon, klang og uttrykk</title>
+	<tittel>synge unisont og flerstemt i gruppe med vekt på intonasjon, klang og uttrykk</tittel>
 	<num>K06_07_M2</num>
 	<stikkord>samarbeid og stemme</stikkord>
 	<type>musisering</type>
 	
 	<elevMaal>
-		<name>Eleven skal bli kjent med sitt sanginstrument.</name>
-		<task>Be eleven om å synge konsonant- og vokaløvelser.</task>
-		<comment>Vokaler og konsonanter: b-d-g neei-joo tungetvistere diri miaåmaria  hi-ha-ho</comment>
+		<maal>Eleven skal bli kjent med sitt sanginstrument.</maal>
+		<oppgave>Be eleven om å synge konsonant- og vokaløvelser.</oppgave>
+		<kommentar>Vokaler og konsonanter: b-d-g neei-joo tungetvistere diri miaåmaria  hi-ha-ho</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne synge enstemmig sammen med andre og høre at det stemmer.</name>
-		<task>Be elevene om å synge en av sangene fra repertoaret samlet i egen mappe.</task>
-		<comment>Unisont: intonasjon</comment>
+		<maal>Eleven skal kunne synge enstemmig sammen med andre og høre at det stemmer.</maal>
+		<oppgave>Be elevene om å synge en av sangene fra repertoaret samlet i egen mappe.</oppgave>
+		<kommentar>Unisont: intonasjon</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne klare å synge sin gruppes stemme samtidig som en annen gruppe synger noe annet.</name>
-		<task>Be eleven om å synge &#233;n stemme samtidig som en annen synger &#233;n annen stemme.</task>
-		<comment>Flerstemt: kanon 2.stemme</comment>
+		<maal>Eleven skal kunne klare å synge sin gruppes stemme samtidig som en annen gruppe synger noe annet.</maal>
+		<oppgave>Be eleven om å synge &#233;n stemme samtidig som en annen synger &#233;n annen stemme.</oppgave>
+		<kommentar>Flerstemt: kanon 2.stemme</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne bruke aksenter, marcato, staccato, tenuto og legato i sang for å gi musikken en karakter eller et uttrykk.</name>
-		<task>Be eleven om å markere enkelte stavelser ved bruk av aksenter, marcato, staccato, tenuto eller legato.</task>
-		<comment>Markeringer og uttrykk</comment>
+		<maal>Eleven skal kunne bruke aksenter, marcato, staccato, tenuto og legato i sang for å gi musikken en karakter eller et uttrykk.</maal>
+		<oppgave>Be eleven om å markere enkelte stavelser ved bruk av aksenter, marcato, staccato, tenuto eller legato.</oppgave>
+		<kommentar>Markeringer og uttrykk</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne variere klangen i sine vokaler og forstå at noen klanger er lettere å synge pga. resonans.</name>
-		<task>Be elevene om å synge trange vokaler som i-er og e-er mot y-er, o-er, a-er, æ-er, å-er.</task>
-		<comment>Trange vokaler er vanskelige å synge.</comment>
+		<maal>Eleven skal kunne variere klangen i sine vokaler og forstå at noen klanger er lettere å synge pga. resonans.</maal>
+		<oppgave>Be elevene om å synge trange vokaler som i-er og e-er mot y-er, o-er, a-er, æ-er, å-er.</oppgave>
+		<kommentar>Trange vokaler er vanskelige å synge.</kommentar>
 	</elevMaal>
 </li>
 
 <li>
-	<title>beherske enkelt melodispill etter gehør og enkle harmoniske og rytmiske akkompagnement</title>
+	<tittel>beherske enkelt melodispill etter gehør og enkle harmoniske og rytmiske akkompagnement</tittel>
 	<num>K06_07_M3</num>
 	<stikkord>gehør og akkompagnement</stikkord>
 	<type>musisering</type>
 	<elevMaal>
-		<name>Eleven skal opparbeide et gehør som er uavhengig av instrument.</name>
-		<task>Be eleven om å delta i leken Smack-a-tone eller si jonisk skala(dur).</task>
-		<comment>Stebe mot solfége-forståelse, men minst kunne høre om tonen går opp eller ned.</comment>
+		<maal>Eleven skal opparbeide et gehør som er uavhengig av instrument.</maal>
+		<oppgave>Be eleven om å delta i leken Smack-a-tone eller si jonisk skala(dur).</oppgave>
+		<kommentar>Stebe mot solfége-forståelse, men minst kunne høre om tonen går opp eller ned.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne mollskalaen og durskalaen.</name>
-		<task>Be eleven spille mollskalaen og durskalaen på piano/gitar.</task>
-		<comment>Husk tallrekka for dur: 1-1-&#189;-1-1-1-&#189; og tilsvarende for moll!</comment>
+		<maal>Eleven skal kunne mollskalaen og durskalaen.</maal>
+		<oppgave>Be eleven spille mollskalaen og durskalaen på piano/gitar.</oppgave>
+		<kommentar>Husk tallrekka for dur: 1-1-&#189;-1-1-1-&#189; og tilsvarende for moll!</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne spille en enkel melodi etter gehør.</name>
-		<task>Be eleven spille en melodi på piano, gitar eller klokkespill!</task>
-		<comment>Melodien kan være fra fire takter lang. Tretakt eller firetakt.</comment>	
+		<maal>Eleven skal kunne spille en enkel melodi etter gehør.</maal>
+		<oppgave>Be eleven spille en melodi på piano, gitar eller klokkespill!</oppgave>
+		<kommentar>Melodien kan være fra fire takter lang. Tretakt eller firetakt.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Elevene skal kunne spille gitar, piano eller klokkespill til enkle melodier(harmonikk).</name>
-		<task>Be eleven spille akkompagnerende toner på piano, gitar eller klokkespill.</task>
-		<comment>Melodien kan være fra fire takter lang. Tretakt. Totakt.</comment>	
+		<maal>Elevene skal kunne spille gitar, piano eller klokkespill til enkle melodier(harmonikk).</maal>
+		<oppgave>Be eleven spille akkompagnerende toner på piano, gitar eller klokkespill.</oppgave>
+		<kommentar>Melodien kan være fra fire takter lang. Tretakt. Totakt.</kommentar>	
 	</elevMaal>
 </li>
 
 <li>
-	<title>framføre sanger og viser fra eldre og nyere tid</title>
+	<tittel>framføre sanger og viser fra eldre og nyere tid</tittel>
 	<num>K06_07_M4</num>
 	<stikkord>sangskatt</stikkord>
 	<type>musisering</type>
 	<elevMaal>
-		<name>Eleven skal kunne viser fra nyere tids komponister som Lillebjørn Nilsen, Halvdan Sivertsen, Øystein Sunde, Jan Eggum, m.fl.</name>
-		<task>Be eleven om å synge "Se alltid lyst på livet(6)", "Sommerfugl i vinterland(5)", "Kor e alle helter hen(7)", "Nesevisa(5)", m.fl. </task>
-		<comment>Lenge leve Gitarkammeratene!</comment>		
+		<maal>Eleven skal kunne viser fra nyere tids komponister som Lillebjørn Nilsen, Halvdan Sivertsen, Øystein Sunde, Jan Eggum, m.fl.</maal>
+		<oppgave>Be eleven om å synge "Se alltid lyst på livet(6)", "Sommerfugl i vinterland(5)", "Kor e alle helter hen(7)", "Nesevisa(5)", m.fl. </oppgave>
+		<kommentar>Lenge leve Gitarkammeratene!</kommentar>		
 	</elevMaal>
 
 	<elevMaal>
-		<name>Eleven skal kunne tradisjonelle viser som brukes mye på Herstad skole.</name>
-		<task>Be eleven synge/spille sanger til samlingene.</task>
-		<comment>Ta en titt i samlingmappene Høst, FN, Jul, Vinter, Påske og Sommer!</comment>
+		<maal>Eleven skal kunne tradisjonelle viser som brukes mye på Herstad skole.</maal>
+		<oppgave>Be eleven synge/spille sanger til samlingene.</oppgave>
+		<kommentar>Ta en titt i samlingmappene Høst, FN, Jul, Vinter, Påske og Sommer!</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne synge sanger fra folkemusikken og populærmusikken.</name>
-		<task>Be eleven synge folkemusikk og populærmusikk.</task>
-		<comment>Sjekk mappa folkemusikk og populærmusikk!</comment>	
+		<maal>Eleven skal kunne synge sanger fra folkemusikken og populærmusikken.</maal>
+		<oppgave>Be eleven synge folkemusikk og populærmusikk.</oppgave>
+		<kommentar>Sjekk mappa folkemusikk og populærmusikk!</kommentar>	
 	</elevMaal>
 </li>
 
 <li>
-	<title>beherske noen norske danser og danser fra andre land</title>
+	<tittel>beherske noen norske danser og danser fra andre land</tittel>
 	<num>K06_07_M5</num>
 	<stikkord>dans</stikkord>
 	<type>musisering</type>
 	<elevMaal>
-		<name>Eleven skal kunne danse polka.</name>
-		<task>Instruer elevene i å danse den tjekkiske dansen polka.</task>
-		<comment>(enkel)Par: Venstre-venstre-høyre-høyre, byttomfotx2, en-to-tre-fir</comment>	
+		<maal>Eleven skal kunne danse polka.</maal>
+		<oppgave>Instruer elevene i å danse den tjekkiske dansen polka.</oppgave>
+		<kommentar>(enkel)Par: Venstre-venstre-høyre-høyre, byttomfotx2, en-to-tre-fir</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne danse troika.</name>
-		<task>Intruer elevene i å danse den rusiske dansen Troika.</task>
-		<comment>(enkel)Trio: 8 frem, 8 tilbake, 8 under arm x 2, 16 ring x 2(Tramp, tramp, tramp), send midterste person frem.</comment>	
+		<maal>Eleven skal kunne danse troika.</maal>
+		<oppgave>Intruer elevene i å danse den rusiske dansen Troika.</oppgave>
+		<kommentar>(enkel)Trio: 8 frem, 8 tilbake, 8 under arm x 2, 16 ring x 2(Tramp, tramp, tramp), send midterste person frem.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne danse pols.</name>
-		<task>Instruere elevene i den polske dansen Pols.</task>
-		<comment>(avansert)Par i ring: ((Gå ved siden av hverandre - gutt innerst, jente ytterst)Venstre fot(lang - 2 slag), høyre(kort - 1 slag)) x 4, (sammen, rotasjon mot venstre, gutt: venstre(1-2), høyre(3); jente:  </comment>	
+		<maal>Eleven skal kunne danse pols.</maal>
+		<oppgave>Instruere elevene i den polske dansen Pols.</oppgave>
+		<kommentar>(avansert)Par i ring: ((Gå ved siden av hverandre - gutt innerst, jente ytterst)Venstre fot(lang - 2 slag), høyre(kort - 1 slag)) x 4, (sammen, rotasjon mot venstre, gutt: venstre(1-2), høyre(3); jente:  </kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne danse reinlender.</name>
-		<task>Instruere elevene i den tyske dansen Reinlender.</task>
-		<comment>(moderat)Par i ring, gutt inn, jente ut, bakerste hender kobles(gutts høyre, jentes venstre): byttomfot x 2, tråkk-hink x 4 med variasjoner i del 1 og del 2.</comment>	
+		<maal>Eleven skal kunne danse reinlender.</maal>
+		<oppgave>Instruere elevene i den tyske dansen Reinlender.</oppgave>
+		<kommentar>(moderat)Par i ring, gutt inn, jente ut, bakerste hender kobles(gutts høyre, jentes venstre): byttomfot x 2, tråkk-hink x 4 med variasjoner i del 1 og del 2.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne danse vals.</name>
-		<task>Instruer elevene i den sentraleuropeiske valsen.</task>
-		<comment>(enkel)Par: en-to-tre(opp-opp-ned/svev-svev-fall) x 2/(Gutt: frem - ut - inntil, bak - ut - inntil)(Jente: bak - ut - inntil, frem - ut - inntil)(Boksen) alt. svinge i sirkler.</comment>	
+		<maal>Eleven skal kunne danse vals.</maal>
+		<oppgave>Instruer elevene i den sentraleuropeiske valsen.</oppgave>
+		<kommentar>(enkel)Par: en-to-tre(opp-opp-ned/svev-svev-fall) x 2/(Gutt: frem - ut - inntil, bak - ut - inntil)(Jente: bak - ut - inntil, frem - ut - inntil)(Boksen) alt. svinge i sirkler.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne danse polonaise.</name>
-		<task>Instruer elevene i den polske polonaise.</task>
-		<comment>(moderat)En/Par/Fire/Åtte/Alle: Innmarsj-to, sirkel, skille lag(bukke/neie), sirkel, samling i tunnel, gå gjennom tunnel, to-høyre og to-venstre, fire, fire-høyre fire-venstre, åtte marsj frem, snirkle imellom og lage stor sirkel.</comment>
+		<maal>Eleven skal kunne danse polonaise.</maal>
+		<oppgave>Instruer elevene i den polske polonaise.</oppgave>
+		<kommentar>(moderat)En/Par/Fire/Åtte/Alle: Innmarsj-to, sirkel, skille lag(bukke/neie), sirkel, samling i tunnel, gå gjennom tunnel, to-høyre og to-venstre, fire, fire-høyre fire-venstre, åtte marsj frem, snirkle imellom og lage stor sirkel.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne danse jenka.</name>
-		<task>Instruere elevene i den finske dansen Jenka.</task>
-		<comment>(enkel)Rekke med skulderholding: Spark høyre x 2, venstre x 2, hopp frem, tilbake, frem, frem, frem.</comment>	
+		<maal>Eleven skal kunne danse jenka.</maal>
+		<oppgave>Instruere elevene i den finske dansen Jenka.</oppgave>
+		<kommentar>(enkel)Rekke med skulderholding: Spark høyre x 2, venstre x 2, hopp frem, tilbake, frem, frem, frem.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne danse swing.</name>
-		<task>Instruere elevene i swing.</task>
-		<comment>(avansert)Par: Grunntrinn, grep, turer(under armen, rundt livet, halvtur, over hodet skli armer, m.fl.).</comment>	
+		<maal>Eleven skal kunne danse swing.</maal>
+		<oppgave>Instruere elevene i swing.</oppgave>
+		<kommentar>(avansert)Par: Grunntrinn, grep, turer(under armen, rundt livet, halvtur, over hodet skli armer, m.fl.).</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne danse linedance.</name>
-		<task>Instruere elevene i den amerikanske linedance.</task>
-		<comment>(moderat)Felt i en retning: h/v/h/v - ut-inn-ut-inn-utsnurrerundtklapp x 2, høytkne x 3 tråkkbak kryss snuogskilleben, byttomfot frem tilbake byttomfot tilbake frem, høyrenedriste inntil x 2.</comment>	
+		<maal>Eleven skal kunne danse linedance.</maal>
+		<oppgave>Instruere elevene i den amerikanske linedance.</oppgave>
+		<kommentar>(moderat)Felt i en retning: h/v/h/v - ut-inn-ut-inn-utsnurrerundtklapp x 2, høytkne x 3 tråkkbak kryss snuogskilleben, byttomfot frem tilbake byttomfot tilbake frem, høyrenedriste inntil x 2.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne danse blimedansen.</name>
-		<task>Instruere elevene i BliMeDansen!</task>
-		<comment>(moderat)Den er ny fra år til år.</comment>	
+		<maal>Eleven skal kunne danse blimedansen.</maal>
+		<oppgave>Instruere elevene i BliMeDansen!</oppgave>
+		<kommentar>(moderat)Den er ny fra år til år.</kommentar>	
 	</elevMaal>
 </li>
 
 <li>
-	<title>delta i framføring med sang, spill og dans der egenkomponert musikk og dans inngår</title>
+	<tittel>delta i framføring med sang, spill og dans der egenkomponert musikk og dans inngår</tittel>
 	<num>K06_07_M6</num>
 	<stikkord>fremføring og publikum</stikkord>
 	<type>musisering</type>
 	<elevMaal>
-		<name>Eleven skal kunne fremføre musikk, konsentrert, sammen med andre.</name>
-		<task>Be eleven om å spille/synge med publikum tilstede.</task>
-		<comment>Samlinger og avslutninger er vanlige arenaer for dette.</comment>	
+		<maal>Eleven skal kunne fremføre musikk, konsentrert, sammen med andre.</maal>
+		<oppgave>Be eleven om å spille/synge med publikum tilstede.</oppgave>
+		<kommentar>Samlinger og avslutninger er vanlige arenaer for dette.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne vite hvordan hun/han mestrer press via pust, avspenning og konsentrasjon.</name>
-		<task>Be eleven om å være seg bevisst pust, konsentrasjon og avspenning.</task>
-		<comment>Under øvelser jobber vi bevisst med dette.</comment>	
+		<maal>Eleven skal kunne vite hvordan hun/han mestrer press via pust, avspenning og konsentrasjon.</maal>
+		<oppgave>Be eleven om å være seg bevisst pust, konsentrasjon og avspenning.</oppgave>
+		<kommentar>Under øvelser jobber vi bevisst med dette.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne komponere musikk og dans som de vet skal fremføres.</name>
-		<task>Be eleven om å komponere et musikkverk eller en dans som skal fremføres for andre.</task>
-		<comment>Publikum kan også være klassen selv.</comment>	
+		<maal>Eleven skal kunne komponere musikk og dans som de vet skal fremføres.</maal>
+		<oppgave>Be eleven om å komponere et musikkverk eller en dans som skal fremføres for andre.</oppgave>
+		<kommentar>Publikum kan også være klassen selv.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne synge, spille og danse foran andre.</name>
-		<task>Be eleven om å synge, spille eller danse på en samling eller avslutning.</task>
-		<comment>Samlinger i gymsalen, avslutninger til jul og sommer og foran klassen er naturlige arenaer.</comment>	
+		<maal>Eleven skal kunne synge, spille og danse foran andre.</maal>
+		<oppgave>Be eleven om å synge, spille eller danse på en samling eller avslutning.</oppgave>
+		<kommentar>Samlinger i gymsalen, avslutninger til jul og sommer og foran klassen er naturlige arenaer.</kommentar>	
 	</elevMaal>
 </li>
 
 <li>
-	<title>improvisere med stemme og instrumenter med utgangspunkt i enkle rytmiske, melodiske og harmoniske mønstre</title>
+	<tittel>improvisere med stemme og instrumenter med utgangspunkt i enkle rytmiske, melodiske og harmoniske mønstre</tittel>
 	<num>K06_07_K1</num>
 	<stikkord>improvisering og mønstre</stikkord>
 	<type>komponering</type>
 	<elevMaal>
-		<name>Eleven skal kunne synge, klappe/trampe og spille enkle periodiske rytmer.</name>
-		<task>Be eleven om å synge, klappe/trampe eller spille en enkel periodisk rytme.</task>
-		<comment>Vi bruker alltid stemmen før vi bruker hendene/føttene/kroppen før vi bruker eksterne instrumenter.</comment>	
+		<maal>Eleven skal kunne synge, klappe/trampe og spille enkle periodiske rytmer.</maal>
+		<oppgave>Be eleven om å synge, klappe/trampe eller spille en enkel periodisk rytme.</oppgave>
+		<kommentar>Vi bruker alltid stemmen før vi bruker hendene/føttene/kroppen før vi bruker eksterne instrumenter.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Elevene skal kunne synge, klappe og spille enkle periodiske melodier.</name>
-		<task>Be eleven om å synge, klappe/trampe eller spille en enkel periodisk melodi.</task>
-		<comment>Rekkefølge for innlæring: Stemme, kropp, føtter, hender.</comment>	
+		<maal>Elevene skal kunne synge, klappe og spille enkle periodiske melodier.</maal>
+		<oppgave>Be eleven om å synge, klappe/trampe eller spille en enkel periodisk melodi.</oppgave>
+		<kommentar>Rekkefølge for innlæring: Stemme, kropp, føtter, hender.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Elevene skal kunne synge, klappe og spille enkle periodiske harmonier.</name>
-		<task>Be eleven om å synge, klappe/trampe eller spille en enkel periodisk harmoni.</task>
-		<comment>Rekkefølge for innlæring: Stemme, kropp, føtter, hender.</comment>	
+		<maal>Elevene skal kunne synge, klappe og spille enkle periodiske harmonier.</maal>
+		<oppgave>Be eleven om å synge, klappe/trampe eller spille en enkel periodisk harmoni.</oppgave>
+		<kommentar>Rekkefølge for innlæring: Stemme, kropp, føtter, hender.</kommentar>	
 	</elevMaal>
 </li>
 
 <li>
-	<title>uttrykke egne ideer, tanker og følelser gjennom bevegelser og dans</title>
+	<tittel>uttrykke egne ideer, tanker og følelser gjennom bevegelser og dans</tittel>
 	<num>K06_07_K2</num>
 	<stikkord>ekspresiv dans</stikkord>
 	<type>komponering</type>
 	<elevMaal>
-		<name>Eleven skal kunne bevege seg fritt til musikk.</name>
-		<task>Be eleven om å bevege seg rytmisk eller flytende i ikke-periodiske eller periodiske mønstre til eller mot musikk.</task>
-		<comment>Eleven må kunne noe om formen i musikken(rytmen, frasen, trykk(tunge og lette), jobbe med eller mot musikken.</comment>	
+		<maal>Eleven skal kunne bevege seg fritt til musikk.</maal>
+		<oppgave>Be eleven om å bevege seg rytmisk eller flytende i ikke-periodiske eller periodiske mønstre til eller mot musikk.</oppgave>
+		<kommentar>Eleven må kunne noe om formen i musikken(rytmen, frasen, trykk(tunge og lette), jobbe med eller mot musikken.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne gi og ta imot koreografi.</name>
-		<task>Be eleven om å instruere andre i en selvlaget koreografi og om å ta imot instruksjoner fra andre elever.</task>
-		<comment>Elevene jobber i grupper eller alene. Små deler blir satt sammen til større koreografiske enheter.</comment>	
+		<maal>Eleven skal kunne gi og ta imot koreografi.</maal>
+		<oppgave>Be eleven om å instruere andre i en selvlaget koreografi og om å ta imot instruksjoner fra andre elever.</oppgave>
+		<kommentar>Elevene jobber i grupper eller alene. Små deler blir satt sammen til større koreografiske enheter.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne bevege seg meningsfullt til musikk.</name>
-		<task>Be eleven om å lytte til og følge musikken.</task>
-		<comment>Meningsinnhold(ord som gestikuleres) eller form(rytme).</comment>	
+		<maal>Eleven skal kunne bevege seg meningsfullt til musikk.</maal>
+		<oppgave>Be eleven om å lytte til og følge musikken.</oppgave>
+		<kommentar>Meningsinnhold(ord som gestikuleres) eller form(rytme).</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne forstå og bruke sitt eget kroppssspråk i dans og bevegelse.</name>
-		<task>Be eleven om å uttrykke en følelse gjennom bevegelse.</task>
-		<comment>Sinne, glede, sorg, redsel, m.m.</comment>	
+		<maal>Eleven skal kunne forstå og bruke sitt eget kroppssspråk i dans og bevegelse.</maal>
+		<oppgave>Be eleven om å uttrykke en følelse gjennom bevegelse.</oppgave>
+		<kommentar>Sinne, glede, sorg, redsel, m.m.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne forstå betydningen av vår kulturs gester og bruke det i dans.</name>
-		<task>Be eleven om å bruke en gest(en anerkjent kulturelt betinget bevegelse) i en dans.</task>
-		<comment>Hånd til pannen(besvime), knyttede never(sinne), armer i været(overgivelse), legge seg ned(gi seg), stramme seg opp(ikke gi seg), smile(ondskap, smarthet), åpne håndflater og løfte skuldrene(forstår ikke), m.m. </comment>	
+		<maal>Eleven skal kunne forstå betydningen av vår kulturs gester og bruke det i dans.</maal>
+		<oppgave>Be eleven om å bruke en gest(en anerkjent kulturelt betinget bevegelse) i en dans.</oppgave>
+		<kommentar>Hånd til pannen(besvime), knyttede never(sinne), armer i været(overgivelse), legge seg ned(gi seg), stramme seg opp(ikke gi seg), smile(ondskap, smarthet), åpne håndflater og løfte skuldrene(forstår ikke), m.m. </kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne forstå betydningen av andre kulturers gester og bruke det i dans.</name>
-		<task>Be eleven om å bruke andre kulturers gester i en dans.</task>
-		<comment>Snakk med elevene i klassen. Kanskje noen fremmedspråklige elever kan dele noe av sin kultur. Ellers gå til Youtube og internett!</comment>
+		<maal>Eleven skal kunne forstå betydningen av andre kulturers gester og bruke det i dans.</maal>
+		<oppgave>Be eleven om å bruke andre kulturers gester i en dans.</oppgave>
+		<kommentar>Snakk med elevene i klassen. Kanskje noen fremmedspråklige elever kan dele noe av sin kultur. Ellers gå til Youtube og internett!</kommentar>
 	</elevMaal>
 </li>
 
 <li>
-	<title>lage egne komposisjoner med utgangspunkt i enkle musikalske former og motiver og bruke grafisk notasjon til å lage skisser av komposisjonene</title>
+	<tittel>lage egne komposisjoner med utgangspunkt i enkle musikalske former og motiver og bruke grafisk notasjon til å lage skisser av komposisjonene</tittel>
 	<num>K06_07_K3</num>
 	<stikkord>musikalsk skrift</stikkord>
 	<type>komponering</type>
 	
 	<elevMaal>
-		<name>Eleven skal kunne tegne ned rytmer vha. grafisk notasjon.</name>
-		<task>Be eleven om å tegne ned en enkel rytme ved hjelp av eget notasjonssystem, grafisk notasjon eller djembenotasjon.</task>
-		<comment>Nedtegnelse av musikk bygges opp via elevens egen notasjon. Ikke kom med en fasitt. La eleven utforske og bruke litt tid!</comment>	
+		<maal>Eleven skal kunne tegne ned rytmer vha. grafisk notasjon.</maal>
+		<oppgave>Be eleven om å tegne ned en enkel rytme ved hjelp av eget notasjonssystem, grafisk notasjon eller djembenotasjon.</oppgave>
+		<kommentar>Nedtegnelse av musikk bygges opp via elevens egen notasjon. Ikke kom med en fasitt. La eleven utforske og bruke litt tid!</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne tegne ned lange og korte toner vha. grafisk notasjon.</name>
-		<task>Be eleven om å tegne ned lange og korte toner i eget notasjonssystem.</task>
-		<comment>Nedtegnelse av musikk bygges opp via elevens egen notasjon. Ikke kom med en fasitt. La eleven utforske og bruke litt tid!</comment>	
+		<maal>Eleven skal kunne tegne ned lange og korte toner vha. grafisk notasjon.</maal>
+		<oppgave>Be eleven om å tegne ned lange og korte toner i eget notasjonssystem.</oppgave>
+		<kommentar>Nedtegnelse av musikk bygges opp via elevens egen notasjon. Ikke kom med en fasitt. La eleven utforske og bruke litt tid!</kommentar>	
 	</elevMaal>	
 	
 	<elevMaal>
-		<name>Eleven skal kunne tegne ned lyse og mørke toner vha. grafisk notasjon eller ved hjelp av grafisk notasjon.</name>
-		<task>Be eleven om å tegne ned en lys og en mørk tone i eget notasjonssystem.</task>
-		<comment>Nedtegnelse av musikk bygges opp via elevens egen notasjon. Ikke kom med en fasitt. La eleven utforske og bruke litt tid!</comment>	
+		<maal>Eleven skal kunne tegne ned lyse og mørke toner vha. grafisk notasjon eller ved hjelp av grafisk notasjon.</maal>
+		<oppgave>Be eleven om å tegne ned en lys og en mørk tone i eget notasjonssystem.</oppgave>
+		<kommentar>Nedtegnelse av musikk bygges opp via elevens egen notasjon. Ikke kom med en fasitt. La eleven utforske og bruke litt tid!</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne tegne ned lydkilden i den grafiske notasjonen.</name>
-		<task>Be eleven om å angi instrument eller lydkilde med egen eller grafisk notasjon.</task>
-		<comment>Nedtegnelse av musikk bygges opp via elevens egen notasjon. Ikke kom med en fasitt. La eleven utforske og bruke litt tid!</comment>	
+		<maal>Eleven skal kunne tegne ned lydkilden i den grafiske notasjonen.</maal>
+		<oppgave>Be eleven om å angi instrument eller lydkilde med egen eller grafisk notasjon.</oppgave>
+		<kommentar>Nedtegnelse av musikk bygges opp via elevens egen notasjon. Ikke kom med en fasitt. La eleven utforske og bruke litt tid!</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne bruke grafisk notasjon for å tegne ned en musikalsk idé.</name>
-		<task>Be eleven om å tenke på et tema som er viktig eller vanlig og lag en komposisjon ut fra det.</task>
-		<comment>Tema: Krig/Krangel(synonymer), vennskap og tilhørighet(beslektede temaer), styrke/svakhet(kontraster), ta vare på/ødelegge, vokse/krympe, morgenstell/legging/lekser/arbeid/pause/forberedelser(rutiner), m.m. </comment>	
+		<maal>Eleven skal kunne bruke grafisk notasjon for å tegne ned en musikalsk idé.</maal>
+		<oppgave>Be eleven om å tenke på et tema som er viktig eller vanlig og lag en komposisjon ut fra det.</oppgave>
+		<kommentar>Tema: Krig/Krangel(synonymer), vennskap og tilhørighet(beslektede temaer), styrke/svakhet(kontraster), ta vare på/ødelegge, vokse/krympe, morgenstell/legging/lekser/arbeid/pause/forberedelser(rutiner), m.m. </kommentar>	
 	</elevMaal>
 </li>
 
 <li>
-	<title>komponere og gjøre lydopptak ved hjelp av digitale verktøy</title>
+	<tittel>komponere og gjøre lydopptak ved hjelp av digitale verktøy</tittel>
 	<num>K06_07_K4</num>
 	<stikkord>digitale verktøy</stikkord>
 	<type>komponering</type>
 	<elevMaal>
-		<name>Eleven skal kunne bruke pattern sequencer på SP-404(Roland).</name>
-		<task>Be eleven om å lage en 4-takts rytme ved hjelp av quantize(4 eller 8).</task>
-		<comment>Bli kjent med de ulike trommelydene(1), Prøve å spille en rytme(2), Gå inn på Pattern Sequencer(3), Stille inn Quantize/Tempo/Clickvolum(4), starte opptak av pattern(5), justere/legge til/fjerne enkelte registreringer på pattern(6), spille av for andre(7).</comment>	
+		<maal>Eleven skal kunne bruke pattern sequencer på SP-404(Roland).</maal>
+		<oppgave>Be eleven om å lage en 4-takts rytme ved hjelp av quantize(4 eller 8).</oppgave>
+		<kommentar>Bli kjent med de ulike trommelydene(1), Prøve å spille en rytme(2), Gå inn på Pattern Sequencer(3), Stille inn Quantize/Tempo/Clickvolum(4), starte opptak av pattern(5), justere/legge til/fjerne enkelte registreringer på pattern(6), spille av for andre(7).</kommentar>	
 	</elevMaal>
 
 	<elevMaal>
-		<name>Eleven skal kunne lage en komposisjon utfra utvalgte/innlastede lyder på "SP-404"(Roland).</name>
-		<task>Be eleven om å gjøre seg kjent med funksjonene til opptakeren og lage en komposisjon utfra valgte lydfiler.</task>
-		<comment>Legg inn lyder i sampleren som er urytmiske og lange! Vindsus, måkeskrik, tog som passerer, osv. Grupper bankene med ulike lyder! F.eks. hav(bank A), transport(bank B), avslapning(bank C), metall(bank D), alderdom(knirk)(bank E), osv.</comment>
+		<maal>Eleven skal kunne lage en komposisjon utfra utvalgte/innlastede lyder på "SP-404"(Roland).</maal>
+		<oppgave>Be eleven om å gjøre seg kjent med funksjonene til opptakeren og lage en komposisjon utfra valgte lydfiler.</oppgave>
+		<kommentar>Legg inn lyder i sampleren som er urytmiske og lange! Vindsus, måkeskrik, tog som passerer, osv. Grupper bankene med ulike lyder! F.eks. hav(bank A), transport(bank B), avslapning(bank C), metall(bank D), alderdom(knirk)(bank E), osv.</kommentar>
 	</elevMaal>
 
 	<elevMaal>
-		<name>Eleven skal kunne bruke de enkleste komposisjonsmulighetene på "The Maschine"(Native Instruments).</name>
-		<task>Be eleven om å laste inn lyder på "The Maschine", bruke Group og Scene i en komposisjon.</task>
-		<comment>Gi navn til og lagre prosjektet(1), last inn lyder i Group A/B/C/osv.(2), velg takter i pattern(3), juster volum på click(4), start opptak av rytmer først(5), start opptak av melodier(6), dupliser patterns/scenes og endre de(7), arranger komposisjon(8). </comment>	
+		<maal>Eleven skal kunne bruke de enkleste komposisjonsmulighetene på "The Maschine"(Native Instruments).</maal>
+		<oppgave>Be eleven om å laste inn lyder på "The Maschine", bruke Group og Scene i en komposisjon.</oppgave>
+		<kommentar>Gi navn til og lagre prosjektet(1), last inn lyder i Group A/B/C/osv.(2), velg takter i pattern(3), juster volum på click(4), start opptak av rytmer først(5), start opptak av melodier(6), dupliser patterns/scenes og endre de(7), arranger komposisjon(8). </kommentar>	
 	</elevMaal>
 </li>
 
 <li>
-	<title>gjenkjenne musikk fra historiske hovedepoker i kunstmusikken</title>
+	<tittel>gjenkjenne musikk fra historiske hovedepoker i kunstmusikken</tittel>
 	<num>K06_07_L1</num>
 	<stikkord>kunstmusikk historie</stikkord>
 	<type>lytting</type>
 	<elevMaal>
-		<name>Eleven skal kunne kjenne igjen musikk fra renessansen.</name>
-		<task>Be eleven lytte til å bli kjent med renessansemusikk.</task>
-		<comment>Kjennetegn/Komponister/Faktabolk - Se egen mappe om emnet</comment>	
+		<maal>Eleven skal kunne kjenne igjen musikk fra renessansen.</maal>
+		<oppgave>Be eleven lytte til å bli kjent med renessansemusikk.</oppgave>
+		<kommentar>Kjennetegn/Komponister/Faktabolk - Se egen mappe om emnet</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne kjenne igjen musikk fra barokken.</name>
-		<task>Be eleven lytte til å bli kjent med barokkmusikk.</task>
-		<comment>Kjennetegn/Komponister/Faktabolk - Se egen mappe om emnet</comment>
+		<maal>Eleven skal kunne kjenne igjen musikk fra barokken.</maal>
+		<oppgave>Be eleven lytte til å bli kjent med barokkmusikk.</oppgave>
+		<kommentar>Kjennetegn/Komponister/Faktabolk - Se egen mappe om emnet</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne kjenne igjen musikk fra wienerklassissismen.</name>
-		<task>Be eleven lytte til å bli kjent med wienerklassissistisk musikk.</task>
-		<comment>Kjennetegn/Komponister/Faktabolk - Se egen mappe om emnet</comment>
+		<maal>Eleven skal kunne kjenne igjen musikk fra wienerklassissismen.</maal>
+		<oppgave>Be eleven lytte til å bli kjent med wienerklassissistisk musikk.</oppgave>
+		<kommentar>Kjennetegn/Komponister/Faktabolk - Se egen mappe om emnet</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne kjenne igjen musikk fra romantikken.</name>
-		<task>Be eleven lytte til å bli kjent med romantisk musikk.</task>
-		<comment>Kjennetegn/Komponister/Faktabolk - Se egen mappe om emnet</comment>
+		<maal>Eleven skal kunne kjenne igjen musikk fra romantikken.</maal>
+		<oppgave>Be eleven lytte til å bli kjent med romantisk musikk.</oppgave>
+		<kommentar>Kjennetegn/Komponister/Faktabolk - Se egen mappe om emnet</kommentar>
 	</elevMaal>
 </li>
 
 <li>
-	<title>diskutere særtrekk ved kunstmusikk, norsk og samisk folkemusikk, folkemusikk fra andre land og rytmisk musikk</title>
+	<tittel>diskutere særtrekk ved kunstmusikk, norsk og samisk folkemusikk, folkemusikk fra andre land og rytmisk musikk</tittel>
 	<num>K06_07_L2</num>
 	<stikkord>sammenligne musikk kunst folk kultur</stikkord>
 	<type>lytting</type>
 	<elevMaal>
-		<name>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i kunstmusikken.</name>
-		<task>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i klassisk kunstmusikk.</task>
-		<comment>Vise bilder, spille lydspor av instrumenter og verk typisk for kunstmusikk.</comment>	
+		<maal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i kunstmusikken.</maal>
+		<oppgave>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i klassisk kunstmusikk.</oppgave>
+		<kommentar>Vise bilder, spille lydspor av instrumenter og verk typisk for kunstmusikk.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i norsk folkemusikk.</name>
-		<task>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i norsk folkemusikk.</task>
-		<comment>Vise bilder, spille lydspor av instrumenter og verk typisk for norsk folkemusikk.</comment>	
+		<maal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i norsk folkemusikk.</maal>
+		<oppgave>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i norsk folkemusikk.</oppgave>
+		<kommentar>Vise bilder, spille lydspor av instrumenter og verk typisk for norsk folkemusikk.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i samisk folkemusikk.</name>
-		<task>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i samisk folkemusikk.</task>
-		<comment>Vise bilder, spille lydspor av instrumenter og verk typisk for samisk folkemusikk.</comment>
+		<maal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i samisk folkemusikk.</maal>
+		<oppgave>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i samisk folkemusikk.</oppgave>
+		<kommentar>Vise bilder, spille lydspor av instrumenter og verk typisk for samisk folkemusikk.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i verdens folkemusikk 1.</name>
-		<task>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i asiatisk(indisk og palestinsk) folkemusikk.</task>
-		<comment>Vise bilder, spille lydspor av instrumenter og verk typisk for asiatisk(indisk) folkemusikk.</comment>
+		<maal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i verdens folkemusikk 1.</maal>
+		<oppgave>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i asiatisk(indisk og palestinsk) folkemusikk.</oppgave>
+		<kommentar>Vise bilder, spille lydspor av instrumenter og verk typisk for asiatisk(indisk) folkemusikk.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i verdens folkemusikk 2.</name>
-		<task>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i nord-amerikansk(urbefolkning og country) folkemusikk.</task>
-		<comment>Vise bilder, spille lydspor av instrumenter og verk typisk for nord-amerikansk folkemusikk.</comment>
+		<maal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i verdens folkemusikk 2.</maal>
+		<oppgave>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i nord-amerikansk(urbefolkning og country) folkemusikk.</oppgave>
+		<kommentar>Vise bilder, spille lydspor av instrumenter og verk typisk for nord-amerikansk folkemusikk.</kommentar>
 	</elevMaal>	
 	
 	<elevMaal>
-		<name>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i verdens folkemusikk 3.</name>
-		<task>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i europeisk(irsk og svensk) folkemusikk.</task>
-		<comment>Vise bilder, spille lydspor av instrumenter og verk typisk for europeisk folkemusikk.</comment>
+		<maal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i verdens folkemusikk 3.</maal>
+		<oppgave>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i europeisk(irsk og svensk) folkemusikk.</oppgave>
+		<kommentar>Vise bilder, spille lydspor av instrumenter og verk typisk for europeisk folkemusikk.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i verdens folkemusikk 4.</name>
-		<task>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i oceanisk(New Zealand) folkemusikk.</task>
-		<comment>Vise bilder, spille lydspor av instrumenter og verk typisk for oceanisk folkemusikk.</comment>
+		<maal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i verdens folkemusikk 4.</maal>
+		<oppgave>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i oceanisk(New Zealand) folkemusikk.</oppgave>
+		<kommentar>Vise bilder, spille lydspor av instrumenter og verk typisk for oceanisk folkemusikk.</kommentar>
 	</elevMaal>	
 	
 	<elevMaal>
-		<name>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i rytmisk musikk.</name>
-		<task>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i afrikansk(Ghana) folkemusikk.</task>
-		<comment>Vise bilder, spille lydspor av instrumenter og verk typisk for afrikansk folkemusikk.</comment>
+		<maal>Eleven skal kunne fortelle om instrumentering og kompleksitet, natur og kultur i rytmisk musikk.</maal>
+		<oppgave>Be eleven om å lære seg navnet på instrumenter og instrumentgrupper brukt i afrikansk(Ghana) folkemusikk.</oppgave>
+		<kommentar>Vise bilder, spille lydspor av instrumenter og verk typisk for afrikansk folkemusikk.</kommentar>
 	</elevMaal>
 </li>
 
 <li>
-	<title>gi uttrykk for opplevelser i møte med verker av sentrale komponister fra kunstmusikken</title>
+	<tittel>gi uttrykk for opplevelser i møte med verker av sentrale komponister fra kunstmusikken</tittel>
 	<num>K06_07_L3</num>
 	<stikkord>verbalisere opplevelser kunstmusikk</stikkord>
 	<type>lytting</type>
 	<elevMaal>
-		<name>Eleven skal kunne uttrykke egne opplevelser ved å høre "Bojarenes Inntogsmarsj" av Johan Halvorsen.</name>
-		<task>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</task>
-		<comment>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</comment>
+		<maal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Bojarenes Inntogsmarsj" av Johan Halvorsen.</maal>
+		<oppgave>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</oppgave>
+		<kommentar>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne uttrykke egne opplevelser ved å høre "Finalen fra Svanesjøen" av Tsjaikovskij.</name>
-		<task>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</task>
-		<comment>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</comment>
+		<maal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Finalen fra Svanesjøen" av Tsjaikovskij.</maal>
+		<oppgave>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</oppgave>
+		<kommentar>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne uttrykke egne opplevelser ved å høre "Solveigs sang" av Edvard Grieg.</name>
-		<task>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</task>
-		<comment>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</comment>
+		<maal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Solveigs sang" av Edvard Grieg.</maal>
+		<oppgave>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</oppgave>
+		<kommentar>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne uttrykke egne opplevelser ved å høre "Nocturne op.9 No.2" av Frédéric Chopin.</name>
-		<task>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</task>
-		<comment>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</comment>
+		<maal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Nocturne op.9 No.2" av Frédéric Chopin.</maal>
+		<oppgave>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</oppgave>
+		<kommentar>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</kommentar>
 	</elevMaal>
 
 	<elevMaal>
-		<name>Eleven skal kunne uttrykke egne opplevelser ved å høre "Finlandia" av Jean Sibelius.</name>
-		<task>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</task>
-		<comment>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</comment>
+		<maal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Finlandia" av Jean Sibelius.</maal>
+		<oppgave>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</oppgave>
+		<kommentar>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne uttrykke egne opplevelser ved å høre "Liebestraum - Love Dream" av Franz Liszt.</name>
-		<task>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</task>
-		<comment>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</comment>
+		<maal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Liebestraum - Love Dream" av Franz Liszt.</maal>
+		<oppgave>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</oppgave>
+		<kommentar>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne uttrykke egne opplevelser ved å høre "Sabre Dance" av  Aram Khachaturian.</name>
-		<task>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</task>
-		<comment>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</comment>
+		<maal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Sabre Dance" av  Aram Khachaturian.</maal>
+		<oppgave>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</oppgave>
+		<kommentar>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne uttrykke egne opplevelser ved å høre "Can Can" av Jacques Offenbach.</name>
-		<task>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</task>
-		<comment>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</comment>
+		<maal>Eleven skal kunne uttrykke egne opplevelser ved å høre "Can Can" av Jacques Offenbach.</maal>
+		<oppgave>Be eleven lytte og etterpå skrive ned tanker rundt musikken, evnt. lage et dikt, en fortelling, en film. Hva slags scene i en film/teaterforestilling/konsert ville dette passet til?</oppgave>
+		<kommentar>Funksjon(bruk/instrumenter)/Opplevelse(stemning/energi/følelser)</kommentar>
 	</elevMaal>
 </li>
 
 <li>
-	<title>gjenkjenne klangen til og benevne de ulike instrumentgruppene</title>
+	<tittel>gjenkjenne klangen til og benevne de ulike instrumentgruppene</tittel>
 	<num>K06_07_L4</num>
 	<stikkord>instrumentering</stikkord>
 	<type>lytting</type>
 	<elevMaal>
-		<name>Eleven skal kunne navnene på instrumentgruppene i klassisk musikk og når de ble en del av "orkesteret".</name>
-		<task>Be eleven lytte til ulik klassisk musikk og krysse av hvilke instrumenter som ble brukt.</task>
-		<comment>Strykerne, Messingblåserne, Treblåserne og Slagverk. Kan kombineres med målsetningen ovenfor, L3!</comment>	
+		<maal>Eleven skal kunne navnene på instrumentgruppene i klassisk musikk og når de ble en del av "orkesteret".</maal>
+		<oppgave>Be eleven lytte til ulik klassisk musikk og krysse av hvilke instrumenter som ble brukt.</oppgave>
+		<kommentar>Strykerne, Messingblåserne, Treblåserne og Slagverk. Kan kombineres med målsetningen ovenfor, L3!</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal gjenkjenne elektroniske instrumenter.</name>
-		<task>Be eleven om å lytte til elektronisk musikk og bli kjent med de ulike elektroniske instrumentene som finnes.</task>
-		<comment>Sampler(opptak), Synthesizer, Keyboard(Leslie), Effekter(Delay/Tremollo/Chorus/Destortion/Biterator/Oktavator, osv.), MusikkProgrammering(Cubase/ProTools/osv.), Skruing av lyd(Minimoog), Mikrofon(dynamisk/kondensator/phantomizer), Trommemaskin(human feel/quantize), m.m. </comment>	
+		<maal>Eleven skal gjenkjenne elektroniske instrumenter.</maal>
+		<oppgave>Be eleven om å lytte til elektronisk musikk og bli kjent med de ulike elektroniske instrumentene som finnes.</oppgave>
+		<kommentar>Sampler(opptak), Synthesizer, Keyboard(Leslie), Effekter(Delay/Tremollo/Chorus/Destortion/Biterator/Oktavator, osv.), MusikkProgrammering(Cubase/ProTools/osv.), Skruing av lyd(Minimoog), Mikrofon(dynamisk/kondensator/phantomizer), Trommemaskin(human feel/quantize), m.m. </kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal gjenkjenne rockens instrumenter.</name>
-		<task>Be eleven om å lytte til ulik type rock(klassisk, heavy metall, trash metall, grounge) og bli kjent med instrumentene som brukes.</task>
-		<comment>Elektrisk gitar, Elektrisk Piano, Keyboard, Elektrisk Bassgitar, Trommesett, m.m.</comment>	
+		<maal>Eleven skal gjenkjenne rockens instrumenter.</maal>
+		<oppgave>Be eleven om å lytte til ulik type rock(klassisk, heavy metall, trash metall, grounge) og bli kjent med instrumentene som brukes.</oppgave>
+		<kommentar>Elektrisk gitar, Elektrisk Piano, Keyboard, Elektrisk Bassgitar, Trommesett, m.m.</kommentar>	
 	</elevMaal>
 </li>
 
 <li>
-	<title>samtale om hvordan musikk både er et kunstnerisk uttrykk og en kommersiell vare</title>
+	<tittel>samtale om hvordan musikk både er et kunstnerisk uttrykk og en kommersiell vare</tittel>
 	<num>K06_07_L5</num>
 	<stikkord>musikk vare og kunst</stikkord>
 	<type>lytting</type>
 	<elevMaal>
-		<name>Eleven skal kunne samtale om musikk som budskap.</name>
-		<task>Be eleven om å skrive ned noen tanker om hva som kan uttrykkes gjennom musikk. Hva prøve musikk å fortelle oss?</task>
-		<comment>Hvordan bruker eleven selv musikk når han/hun kan bestemme selv?</comment>	
+		<maal>Eleven skal kunne samtale om musikk som budskap.</maal>
+		<oppgave>Be eleven om å skrive ned noen tanker om hva som kan uttrykkes gjennom musikk. Hva prøve musikk å fortelle oss?</oppgave>
+		<kommentar>Hvordan bruker eleven selv musikk når han/hun kan bestemme selv?</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne snakke om musikk som salgsvare.</name>
-		<task>Be eleven om å skrive ned noen stikkord før han/hun prøver å få noen andre til å like akkurat den musikken han/hun liker selv.</task>
-		<comment>Rollespill: Prøv å selge låta! Lag en tekst til Bandets hjemmeside! Minimum: Medlemmer, Instrumenter, Når og Hvor.</comment>	
+		<maal>Eleven skal kunne snakke om musikk som salgsvare.</maal>
+		<oppgave>Be eleven om å skrive ned noen stikkord før han/hun prøver å få noen andre til å like akkurat den musikken han/hun liker selv.</oppgave>
+		<kommentar>Rollespill: Prøv å selge låta! Lag en tekst til Bandets hjemmeside! Minimum: Medlemmer, Instrumenter, Når og Hvor.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne snakke om hvordan musikk virker.</name>
-		<task>Be eleven om å komme med gode argumenter til å kjøpe akkurat denne sangen. Hva vil den gjøre for deg?</task>
-		<comment>Rolig, glad, sterk, sint, trist, forelsket! Følelser!</comment>	
+		<maal>Eleven skal kunne snakke om hvordan musikk virker.</maal>
+		<oppgave>Be eleven om å komme med gode argumenter til å kjøpe akkurat denne sangen. Hva vil den gjøre for deg?</oppgave>
+		<kommentar>Rolig, glad, sterk, sint, trist, forelsket! Følelser!</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne samtale om kvalitet i musikken.</name>
-		<task>Be eleven tenke over/skrive ned hva som gjør at noe musikk har høy kvalitet og motsatt!</task>
-		<comment>Lag en blogg eller en anmeldelse! Komponistens alder, ferdigheter, målgruppe,kunnskapsnivå og budskap!</comment>
+		<maal>Eleven skal kunne samtale om kvalitet i musikken.</maal>
+		<oppgave>Be eleven tenke over/skrive ned hva som gjør at noe musikk har høy kvalitet og motsatt!</oppgave>
+		<kommentar>Lag en blogg eller en anmeldelse! Komponistens alder, ferdigheter, målgruppe,kunnskapsnivå og budskap!</kommentar>
 	</elevMaal>
 </li>
 
 <li>
-	<title>gi uttrykk for egne vurderinger om hvordan musikkens bruk og funksjon har endret seg gjennom tidene</title>
+	<tittel>gi uttrykk for egne vurderinger om hvordan musikkens bruk og funksjon har endret seg gjennom tidene</tittel>
 	<num>K06_10_L6</num>
 	<stikkord>endring i bruk og hensikt</stikkord>
 	<type>lytting</type>
 
 	<elevMaal>
-		<name>Eleven skal med egne ord kunne uttrykke noe om musikkens opphav.</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan musikk oppsto fra ingenting.</task>
-		<comment>Materialer: Tre, Skinn, Bein. Stemme og Kropp.</comment>	
+		<maal>Eleven skal med egne ord kunne uttrykke noe om musikkens opphav.</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan musikk oppsto fra ingenting.</oppgave>
+		<kommentar>Materialer: Tre, Skinn, Bein. Stemme og Kropp.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal med egne ord kunne si noe om behovet for nedtegnelse av musikk og notasjonssystemets utvikling.</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvorfor mennesket plutselig skulle skrive ned musikk og hvordan de greide det.</task>
-		<comment>Muntlig overlevering og Skriftlig overlevering. Pave Gregor. Neumer. Presist notasjonssystem for toner og rytmer.</comment>	
+		<maal>Eleven skal med egne ord kunne si noe om behovet for nedtegnelse av musikk og notasjonssystemets utvikling.</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvorfor mennesket plutselig skulle skrive ned musikk og hvordan de greide det.</oppgave>
+		<kommentar>Muntlig overlevering og Skriftlig overlevering. Pave Gregor. Neumer. Presist notasjonssystem for toner og rytmer.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal med egne ord kunne si noe om vuggeviser, gjeteviser, stev, lokk(folkemusikk).</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan musikken preger og fargelegger hverdagslivet.</task>
-		<comment>Sang som en del av hverdagen. Variasjon i hverdagen.</comment>	
+		<maal>Eleven skal med egne ord kunne si noe om vuggeviser, gjeteviser, stev, lokk(folkemusikk).</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan musikken preger og fargelegger hverdagslivet.</oppgave>
+		<kommentar>Sang som en del av hverdagen. Variasjon i hverdagen.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal med egne ord kunne si noe om opera, ballett, teatermusikk, filmmusikk(musikk som underholdning).</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvorfor mennesket bruker så mye penger på underholdning.</task>
-		<comment>Menneskets behov for å avledes og underholdes med sin tids mest pompøse påfugl og jålebukk.</comment>	
+		<maal>Eleven skal med egne ord kunne si noe om opera, ballett, teatermusikk, filmmusikk(musikk som underholdning).</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvorfor mennesket bruker så mye penger på underholdning.</oppgave>
+		<kommentar>Menneskets behov for å avledes og underholdes med sin tids mest pompøse påfugl og jålebukk.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal med egne ord kunne si noe om negro spirituals, soul, gospel(religiøs musikk).</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvorfor mennesker samles og synger til gud.</task>
-		<comment>Mennesket bruker musikk for å samles i tro og fellesskap.</comment>	
+		<maal>Eleven skal med egne ord kunne si noe om negro spirituals, soul, gospel(religiøs musikk).</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvorfor mennesker samles og synger til gud.</oppgave>
+		<kommentar>Mennesket bruker musikk for å samles i tro og fellesskap.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal med egne ord kunne si noe om reggae, hip hop, punk(politisk musikk).</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan musikk kan brukes for å kjempe mot en overmakt.</task>
-		<comment>Mennesket bruker musikk for å samles i kampen mot makten.</comment>	
+		<maal>Eleven skal med egne ord kunne si noe om reggae, hip hop, punk(politisk musikk).</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan musikk kan brukes for å kjempe mot en overmakt.</oppgave>
+		<kommentar>Mennesket bruker musikk for å samles i kampen mot makten.</kommentar>	
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal med egne ord kunne si noe om svenske og norske dansband, folkedans på lokalet, discotek på 70-tallet(dansemusikk).</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvorfor mennesker møtes for å danse til musikk.</task>
-		<comment>Mennesket har behov for å komme sammen i noe større og bryte opp fra hverdag og rutiner.</comment>
+		<maal>Eleven skal med egne ord kunne si noe om svenske og norske dansband, folkedans på lokalet, discotek på 70-tallet(dansemusikk).</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvorfor mennesker møtes for å danse til musikk.</oppgave>
+		<kommentar>Mennesket har behov for å komme sammen i noe større og bryte opp fra hverdag og rutiner.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal med egne ord kunne si noe om techno, triphop, dubstep, ambience, drum'n'bass, m.m.(nyteknologisk musikk).</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan nye teknologiske hjelpemidler påvirker musikkens uttrykk.</task>
-		<comment>Menneskets nysgjerrighet finner nye veier inn i det ukjente og mystiske.</comment>	
+		<maal>Eleven skal med egne ord kunne si noe om techno, triphop, dubstep, ambience, drum'n'bass, m.m.(nyteknologisk musikk).</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan nye teknologiske hjelpemidler påvirker musikkens uttrykk.</oppgave>
+		<kommentar>Menneskets nysgjerrighet finner nye veier inn i det ukjente og mystiske.</kommentar>	
 	</elevMaal>
 
 	<elevMaal>
-		<name>Eleven skal med egne ord kunne forklare endringer i hvordan mennesket har brukt musikken opp gjennom tidene.</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan bruken av musikk har endret seg gjennom tidene.</task>
-		<comment>Behov for å være seg selv. Behov for å høre til. Gruppe og Identitet.</comment>
+		<maal>Eleven skal med egne ord kunne forklare endringer i hvordan mennesket har brukt musikken opp gjennom tidene.</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan bruken av musikk har endret seg gjennom tidene.</oppgave>
+		<kommentar>Behov for å være seg selv. Behov for å høre til. Gruppe og Identitet.</kommentar>
 	</elevMaal>
 	
 	<elevMaal>
-		<name>Eleven skal kunne uttrykke seg med egne ord om vår tids musikkbruk.</name>
-		<task>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan vi bruker musikken idag.</task>
-		<comment>Ritualer og overganger. Hverdagunderholdning og kjedsomhet. Drømmer og glede. Uttrykk og budskap. Identitet og gruppe.</comment>	
+		<maal>Eleven skal kunne uttrykke seg med egne ord om vår tids musikkbruk.</maal>
+		<oppgave>Be eleven om å skrive ned tanker, tenke eller samtale om hvordan vi bruker musikken idag.</oppgave>
+		<kommentar>Ritualer og overganger. Hverdagunderholdning og kjedsomhet. Drømmer og glede. Uttrykk og budskap. Identitet og gruppe.</kommentar>	
 	</elevMaal>
 </li>
 
