@@ -1,7 +1,15 @@
 /////////////////////////////////////////////////////////////////////////////////
 //  Her kaller jeg funksjonen som lager en aside til målene, se nederst
 
-makeAside(); // Og vent på klikk
+// Burde jeg laste ned XMLHttpRequest her allerede før alt og sørge for en egen variabel (var xmlhttpinnlastet = true;) og sende xml med som parameter (makeAside(xml));
+
+
+
+
+loadDoc("aside", 0); // Og vent på klikk
+
+
+
 
 
 //////////////////////////////////////////////////////////////////////////////////
@@ -9,111 +17,117 @@ makeAside(); // Og vent på klikk
 
 	document.getElementById('K06_07_M1').addEventListener('click', function(){
 		
-		visDelMaal(0); // arrays start på 0
+		
+		loadDoc("maal", 0); // arrays start på 0
 
 	});
 
 	document.getElementById('K06_07_M2').addEventListener('click', function(){
 		
-		visDelMaal(1);
+		loadDoc("maal", 1);
 		
 	});
 
 	document.getElementById('K06_07_M3').addEventListener('click', function(){
 		
-		visDelMaal(2);
+		loadDoc("maal", 2);
 		
 	});
 
 	document.getElementById('K06_07_M4').addEventListener('click', function(){
 		
-		visDelMaal(3);
+		loadDoc("maal", 3);
 		
 	});
 
 	document.getElementById('K06_07_M5').addEventListener('click', function(){
 		
-		visDelMaal(4);
+		loadDoc("maal", 4);
 		
 	});
 
 	document.getElementById('K06_07_M6').addEventListener('click', function(){
 		
-		visDelMaal(5);
+		loadDoc("maal", 5);
 
 	});
 
 	document.getElementById('K06_07_K1').addEventListener('click', function(){
 		
-		visDelMaal(6);
+		loadDoc("maal", 6);
 
 	});
 
 	document.getElementById('K06_07_K2').addEventListener('click', function(){
 		
-		visDelMaal(7);
+		loadDoc("maal", 7);
 
 	});
 
 	document.getElementById('K06_07_K3').addEventListener('click', function(){
 		
-		visDelMaal(8);
+		loadDoc("maal", 8);
 
 	});
 
 	document.getElementById('K06_07_K4').addEventListener('click', function(){
 		
-		visDelMaal(9);
+		loadDoc("maal", 9);
 
 	});
 
 	document.getElementById('K06_07_L1').addEventListener('click', function(){
 		
-		visDelMaal(10);
+		loadDoc("maal", 10);
 
 	});
 
 	document.getElementById('K06_07_L2').addEventListener('click', function(){
 		
-		visDelMaal(11);
+		loadDoc("maal", 11);
 
 	});
 
 	document.getElementById('K06_07_L3').addEventListener('click', function(){
 		
-		visDelMaal(12);
+		loadDoc("maal", 12);
 
 	});
 
 	document.getElementById('K06_07_L4').addEventListener('click', function(){
 		
-		visDelMaal(13);
+		loadDoc("maal", 13);
 
 	});
 
 	document.getElementById('K06_07_L5').addEventListener('click', function(){
 		
-		visDelMaal(14);
+		loadDoc("maal", 14);
 
 	});
 
 	document.getElementById('K06_07_L6').addEventListener('click', function(){
 		
-		visDelMaal(15);
+		loadDoc("maal", 15);
 
 	});
 
 
 // En av EventListener'ne over kaller denne funksjonen som henter informasjon fra xml-fila
 
-	function visDelMaal(num){
+	function loadDoc( whoCalls, num ){
 		
 		var xhttp = new XMLHttpRequest();
 		
 		xhttp.onreadystatechange = function(){
 			
 			if(this.readyState == 4 && this.status == 200){
-				myFunction(this, num);
+				
+				if(whoCalls == "aside"){
+					makeAside(this);
+				}else{
+					visDelMaal(this, num);
+				}
 			}
 		}
 
@@ -124,7 +138,7 @@ makeAside(); // Og vent på klikk
 
 // som hopper inn i denne funksjonen for å fullføre jobben
 
-	function myFunction(xml, num){
+	function visDelMaal(xml, num){
 		var xmlDoc = xml.responseXML;
 		var txt = '<li>';
 		var x = xmlDoc.getElementsByTagName('li');
@@ -136,8 +150,8 @@ makeAside(); // Og vent på klikk
 		var num = title.nextSibling.nextSibling;
 		var stikkord = num.nextSibling.nextSibling;
 		var type = stikkord.nextSibling.nextSibling;
-		var elevMaal = type.nextSibling.nextSibling;
-		var z = elevMaal.childNodes;
+		var elevMaalSamling = type.nextSibling.nextSibling;
+		var z = elevMaalSamling.childNodes;
 
 		var lenList = y.length;
 		var newList = (lenList - (1 + 8) / 2);
@@ -146,35 +160,101 @@ makeAside(); // Og vent på klikk
 			console.log('The <li> har ' + lenList + ' childNodes.');
 			console.log('Each elevMaalTag has a length of: ' + lenElevMaalList);
 			
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+//							HTML - DOM - Tittel, Num, Stikkord, Type
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+			
 			// Tittel
-			var txt = "<h1>" + title.firstChild.nodeValue + "</h1>";
+			var txt = "<h4>" + title.firstChild.nodeValue + "</h4>";
 			document.getElementById('K06_tittel').innerHTML = txt;
-			// Tittel
-			var txt = "<u>" + num.firstChild.nodeValue + "</u>";
-			document.getElementById('K06_num').innerHTML = txt;
-			// Tittel
-			var txt = "<h3>" + stikkord.firstChild.nodeValue + "</h3>";
+			
+			// Num
+			// var txt = "<u>" + num.firstChild.nodeValue + "</u>";
+			// document.getElementById('K06_num').innerHTML = txt;
+			
+			// Stikkord
+			var txt = "<h4>" + stikkord.firstChild.nodeValue + "</h4>";
 			document.getElementById('K06_stikkord').innerHTML = txt;
-			// Tittel
+			
+			// Type
 			var txt = "<h4>" + type.firstChild.nodeValue + "</h4>";
 			document.getElementById('K06_type').innerHTML = txt;
-			
-			console.log(title.firstChild.nodeValue);
-			console.log(num.firstChild);
-			console.log(stikkord.firstChild);
-			console.log(type.firstChild);
 
-				// console.log(y);
-				// console.log(z);
-				
-					for(var i = 1; i < lenList; i+=2){
+
+					for(var i = 9; i < lenList; i+=2){
 						
-							console.log(i);
-							
-									
 						if(y[i].nodeType == 1 && y[i].nodeName == 'elevMaal'){
 							
-							// console.log("--------elevMaal----------");
+							var temp, txt;
+							
+							for(var i2 = 1;i2 < lenElevMaalList; i2+=2){
+								
+								if(z[i2].nodeType == 1 && (z[i2].nodeName == 'maal') ){
+							
+									temp = elevMaalSamling.childNodes[i2];
+									
+									txt += temp.firstChild.nodeValue + "<br/>\n";
+									
+									document.getElementById('maalene').innerHTML = txt;
+
+									console.log(temp.firstChild.nodeValue); // Erstattes med document.getElementById(id).innerHTML = txt;
+								}
+							}
+							
+							elevMaalSamling = elevMaalSamling.nextSibling.nextSibling;
+						}
+
+					}
+
+	}
+
+	
+//////////////////////////////////////////////////////////////////////////	
+//					Utspytting av elevmaalene
+//////////////////////////////////////////////////////////////////////////	
+	
+	function elevMaalShow(elevMaal, totalPunktAntall){
+		
+		
+		console.log(elevMaal);
+		var len = totalPunktAntall;
+		var newLen = (len - (1 + 8) / 2);
+		
+		console.log(len);
+		console.log(newLen);
+		
+					for(var i = 9; i < len; i+=2){
+						
+						if(elevMaal[i].nodeType == 1 && elevMaal[i].nodeName == 'elevMaal'){
+							
+							var temp = elevMaal.childNodes[1];
+
+									console.log(temp.firstChild.nodeValue); // Erstattes med document.getElementById(id).innerHTML = txt;
+		
+				
+							elevMaal = elevMaal.nextSibling.nextSibling;
+						}
+
+					}
+		
+		
+	}
+	
+	
+	
+//////////////////////////////////////////////////////////////////////////
+//			Utspytting av elevmaalenes maal, oppgave og kommentar
+//////////////////////////////////////////////////////////////////////////
+
+	function maalOppgaveKommentarAdskilt(xml, num, maalNum){
+		
+
+// som andre function er i denne fila skal den kalles fra functionen loadDoc
+// lengden på de ulike tabellene må finnes : lenElevMaalList og lenList
+		
+					for(var i = 9; i < lenList; i+=2){
+						
+						if(y[i].nodeType == 1 && y[i].nodeName == 'elevMaal'){
 							
 							var temp;
 							
@@ -184,7 +264,7 @@ makeAside(); // Og vent på klikk
 							
 									temp = elevMaal.childNodes[i2];
 
-									console.log(temp.firstChild);
+									console.log(temp.firstChild.nodeValue); // Erstattes med document.getElementById(id).innerHTML = txt;
 								}
 							}
 							
@@ -192,40 +272,18 @@ makeAside(); // Og vent på klikk
 						}
 
 					}
-
-
-
-		
-		
-		/*
-		// console.log(txt);
-		
-		txt = '<h1>Oppdeling av læringsmål ' + (num+1) + '</h1><br/>\n<ul>' + txt + '</ul>';
-	   document.getElementById("point").innerHTML = txt;
-	   
-	   */
-
-	} // OBS!!! End bracket of myFunction(xml, num)
-
+	}
+	
+	
+	
+	
+	
+	
 ////////////////////////////////////////////////////////////////////////////	
 // aside master 
 //Denne funksjonen skriver ut en av maalene til K-06, musikk etter 7.trinn
-	function makeAside(){	
-		var xhttp = new XMLHttpRequest();
-		
-		console.log('Ok');
-		xhttp.onreadystatechange = function (){
-			if(this.readyState == 4 && this.status == 200){
-				getXMLGoals(this);
-			}
-		}
-		
-		xhttp.open('GET', 'K-06ElevensMaal/maalTrinn7incTasks.xml', true);
-		xhttp.send();
-	}
 
-// aside master fortsetter
-	function getXMLGoals(xml){
+	function makeAside(xml){
 		var xmlDoc = xml.responseXML, y;
 		
 		var x = xmlDoc.getElementsByTagName('tittel');

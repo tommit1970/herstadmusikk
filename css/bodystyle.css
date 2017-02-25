@@ -85,19 +85,19 @@ section .master aside {
 
 
 section .sub{
-	min-width: 2000px;
+	min-width: 100%;
 	white-space: nowrap;
 }
 
 section .sub article{
 	float: left;
-	width: 500px;
+	width: 50%;
 	min-height: 300px;
 	padding:10px;
 	text-align:left;
 	background-color:brown;
 	border-radius:10px;
-	white-space: wrap;
+	white-space: normal; /* white-space: normal|nowrap|pre|pre-line|pre-wrap|initial|inherit; */
 }
 
 section .sub aside{
@@ -107,9 +107,17 @@ section .sub aside{
 	padding:10px;
 	margin: 0 0 0 10px;
 	text-align:left;
-	background-color: pink;
+	background-color: lime;
 	border-radius:10px;"	
 }
+
+section .sub .K06_samling {
+	background-color: maroon;
+	padding: 5px;
+	border: solid black 2px;
+	text-align: center;
+}
+
 
 section ul a {
 	color: white;

@@ -236,14 +236,17 @@
 		<section>
 			<div class="sub">
 				<article>
-					<div id="K06_tittel"></div>
-					<div id="K06_num"></div>
-					<div id="K06_stikkord"></div>
-					<div id="K06_type"></div>
+					<p><strong>Målet for undervisningen er at eleven skal kunne:</strong></p>
+					<div class="K06_samling"><div id="K06_tittel"></div></div>
+<!--					<div class="K06_samling"><div id="K06_num"></div></div>  -->
+					<p><strong>Her er noen stikkord for målet:</strong></p>
+					<div class="K06_samling"><div id="K06_stikkord"></div></div>
+					<p><strong>Punktet hører inn under:</strong></p>
+					<div class="K06_samling"><div id="K06_type"></div></div>
 				</article>
 				
 				<aside>
-
+					<div class="K06_samling" id="maalene"></div>
 				</aside>
 			</div>
 		</section>
