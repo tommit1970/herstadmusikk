@@ -233,7 +233,7 @@
 			</div>
 		</section>
 		
-		<section>
+		<section id="elevMaaltitle">
 			<div class="sub">
 				<article>
 					<p><strong>Målet for undervisningen er at eleven skal kunne:</strong></p>

@@ -140,7 +140,7 @@ loadDoc("aside", 0); // Og vent på klikk
 
 	function visDelMaal(xml, num){
 		var xmlDoc = xml.responseXML;
-		var txt = '<li>';
+		var txt;
 		var x = xmlDoc.getElementsByTagName('li');
 		var y = x[num].childNodes;
 		
@@ -161,11 +161,11 @@ loadDoc("aside", 0); // Og vent på klikk
 			console.log('Each elevMaalTag has a length of: ' + lenElevMaalList);
 			
 /////////////////////////////////////////////////////////////////////////////////////////////////////
-//							HTML - DOM - Tittel, Num, Stikkord, Type
+//							HTML - DOM - tittel, num, stikkord, type
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 			
 			// Tittel
-			var txt = "<h4>" + title.firstChild.nodeValue + "</h4>";
+			txt = "<h4>" + title.firstChild.nodeValue + "</h4>";
 			document.getElementById('K06_tittel').innerHTML = txt;
 			
 			// Num
@@ -173,19 +173,26 @@ loadDoc("aside", 0); // Og vent på klikk
 			// document.getElementById('K06_num').innerHTML = txt;
 			
 			// Stikkord
-			var txt = "<h4>" + stikkord.firstChild.nodeValue + "</h4>";
+			txt = "<h4>" + stikkord.firstChild.nodeValue + "</h4>";
 			document.getElementById('K06_stikkord').innerHTML = txt;
 			
 			// Type
-			var txt = "<h4>" + type.firstChild.nodeValue + "</h4>";
+			txt = "<h4>" + type.firstChild.nodeValue + "</h4>";
 			document.getElementById('K06_type').innerHTML = txt;
 
+/////////////////////////////////////////////////////////////////////////////////
+//						HTML - DOM - elevMaalSamling
+/////////////////////////////////////////////////////////////////////////////////
+			
+			
+			var temp, ;
+
+			txt = "<ul>\n\t<li>";
 
 					for(var i = 9; i < lenList; i+=2){
 						
 						if(y[i].nodeType == 1 && y[i].nodeName == 'elevMaal'){
 							
-							var temp, txt;
 							
 							for(var i2 = 1;i2 < lenElevMaalList; i2+=2){
 								
@@ -193,17 +200,24 @@ loadDoc("aside", 0); // Og vent på klikk
 							
 									temp = elevMaalSamling.childNodes[i2];
 									
-									txt += temp.firstChild.nodeValue + "<br/>\n";
+									if(i < lenList - 2){
+										
+										
+										txt += temp.firstChild.nodeValue + "</li>\n\t<li>";
 									
-									document.getElementById('maalene').innerHTML = txt;
-
-									console.log(temp.firstChild.nodeValue); // Erstattes med document.getElementById(id).innerHTML = txt;
+									} else {
+										
+										txt += temp.firstChild.nodeValue + "</li>\n</ul>";
+										
+									}
 								}
 							}
 							
 							elevMaalSamling = elevMaalSamling.nextSibling.nextSibling;
 						}
-
+						
+						document.getElementById('maalene').innerHTML = txt;
+						
 					}
 
 	}
