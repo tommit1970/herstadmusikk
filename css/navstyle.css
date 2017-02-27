@@ -1,3 +1,21 @@
+nav {
+	width: 60%;
+	margin: 0 25% 0;
+	text-align: left;
+	background-color: #336633;
+	padding: 1em 1em 0;
+	border-radius: 1em 2em 0 0;
+}
+
+div.boxbottom{
+    background-color: olive;
+    color: white;
+    border-radius: 1em 2em 0 0;
+    padding: 1em 1em 0;
+	min-width:615px;
+	white-space: nowrap;
+	}
+
 /* Dropdown Button */
 .dropbtn {						/* navigerings-knappene*/
     background-color: #4CAF50;
