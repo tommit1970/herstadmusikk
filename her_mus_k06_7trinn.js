@@ -305,7 +305,7 @@ loadDoc("aside", 0); // Og vent på klikk
 		var y = x[randomNum(x)].childNodes[0];
 		
 		
-	// Putter det i aside-tag med id='randomGoal'	
+	// Putt det i aside-tag med id='randomGoal'	
 		document.getElementById('randomGoal').textContent = y.nodeValue;
 
 	}
